@@ -1,0 +1,12 @@
+[
+  {
+    "dimension": 0,
+    "mob": "minecraft:slime",
+    "mincount": {
+      "amount": 5,
+      "hostile": true,
+      "perplayer": true
+    },
+    "result": "deny"
+  }
+]

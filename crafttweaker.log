@@ -1,0 +1,1258 @@
+[PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit]]
+[PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: crafting.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: main.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: tweakergui_auto_gen.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 2ms
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [recipeevent | crafttweaker]]
+[INITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: crafting.zs}
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:29: Could not resolve <thermalfoundation : material : 512>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:29: Could not resolve <thermalfoundation : material : 160>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:29: Could not resolve <immersiveengineering : mold : 2>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:30: Could not resolve <thermalfoundation : material : 513>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:30: Could not resolve <immersiveengineering : metal_decoration0 : 3>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:30: Could not resolve <immersiveengineering : mold : 2>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:31: Could not resolve <thermalfoundation : material : 515>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:31: Could not resolve <immersiveengineering : metal_decoration0 : 4>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:31: Could not resolve <immersiveengineering : mold : 2>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:32: Could not resolve <thermalfoundation : material : 514>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:32: Could not resolve <immersiveengineering : metal : 4>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:32: Could not resolve <immersiveengineering : mold : 2>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:33: Could not resolve <thermalfoundation : material : 657>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:34: Could not resolve <thermaldynamics : relay>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:35: Could not resolve <thermaldynamics : retriever : 3>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:35: Could not resolve <thermalfoundation : material : 162>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:36: Could not resolve <thermaldynamics : servo : 3>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:36: Could not resolve <thermalfoundation : material : 165>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:37: Could not resolve <thermaldynamics : filter : 3>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:37: Could not resolve <thermalfoundation : material : 136>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:38: Could not resolve <thermalexpansion : frame : 64>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:38: Could not resolve <immersiveengineering : mold : 2>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:39: Could not resolve <thermalexpansion : frame>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:39: Could not resolve <immersiveengineering : storage : 8>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:39: Could not resolve <immersiveengineering : mold>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:40: Could not resolve <thermalfoundation : glass>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:40: Could not resolve <thermalfoundation : material : 64>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:40: Could not resolve <immersiveengineering : mold>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:41: Could not resolve <thermalfoundation : glass_alloy : 3>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:41: Could not resolve <thermalfoundation : material : 99>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:41: Could not resolve <immersiveengineering : mold>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:42: Could not resolve <thermaldynamics : duct_16 : 2>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:42: Could not resolve <immersiveengineering : material : 19>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:42: Could not resolve <immersiveengineering : material>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:43: Could not resolve <thermaldynamics : duct_32>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:43: Could not resolve <thermalfoundation : material : 129>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:43: Could not resolve <immersiveengineering : material : 2>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:44: Could not resolve <thermaldynamics : duct_48>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:44: Could not resolve <thermalfoundation : material : 224>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:44: Could not resolve <immersiveengineering : material : 2>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:45: Could not resolve <thermaldynamics : duct_0 : 1>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:45: Could not resolve <thermalfoundation : material : 164>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:45: Could not resolve <immersiveengineering : material : 2>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:46: Could not resolve <thermalfoundation : upgrade>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:46: Could not resolve <immersiveengineering : metal_decoration0 : 5>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:46: Could not resolve <immersiveengineering : mold>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:47: Could not resolve <openmodularturrets : turret_base : 4>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:49: Could not resolve <grapplemod : longfallboots>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:50: Could not resolve <grapplemod : launcheritem>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:50: Could not resolve <immersiveengineering : mold : 2>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:51: Could not resolve <grapplemod : repeller>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:51: Could not resolve <mysticalworld : pearl>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:51: Could not resolve <immersiveengineering : mold>
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:29 > No such member: immersiveengineering
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:30 > No such member: immersiveengineering
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:31 > No such member: immersiveengineering
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:32 > No such member: immersiveengineering
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:33 > No such member: immersiveengineering
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:34 > No such member: immersiveengineering
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:35 > No such member: immersiveengineering
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:36 > No such member: immersiveengineering
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:37 > No such member: immersiveengineering
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:38 > No such member: immersiveengineering
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:39 > No such member: immersiveengineering
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:40 > No such member: immersiveengineering
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:41 > No such member: immersiveengineering
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:42 > No such member: immersiveengineering
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:43 > No such member: immersiveengineering
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:44 > No such member: immersiveengineering
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:45 > No such member: immersiveengineering
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:46 > No such member: immersiveengineering
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:47 > No such member: immersiveengineering
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:48 > No such member: immersiveengineering
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:49 > No such member: immersiveengineering
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:50 > No such member: immersiveengineering
+[INITIALIZATION][CLIENT][ERROR] crafting.zs:51 > No such member: immersiveengineering
+[INITIALIZATION][CLIENT][ERROR] [crafttweaker]: Error executing {[0:crafttweaker]: crafting.zs}: Bad type on operand stack
+Exception Details:
+  Location:
+    Crafting.__script__()V @259: ifnonnull
+  Reason:
+    Type integer (current frame, stack[5]) is not assignable to reference type
+  Current Frame:
+    bci: @259
+    flags: { }
+    locals: { top, 'crafttweaker/api/item/IItemStack' }
+    stack: { null, '[Lstanhebben/zenscript/value/IAny;', '[Lstanhebben/zenscript/value/IAny;', integer, integer, integer }
+  Bytecode:
+    0x0000000: 120b 120c b800 124c b200 1812 1a12 1cb8
+    0x0000010: 0022 b900 2801 0012 29bd 002b 5912 0c12
+    0x0000020: 2cbd 002e 5912 0c2b 5359 1229 2b53 5301
+    0x0000030: 01b9 0034 0600 b200 1812 3612 1cb8 0022
+    0x0000040: b900 2801 0012 2cb9 003c 0200 122c bd00
+    0x0000050: 2b59 120c 122c bd00 2e59 120c 2b53 5912
+    0x0000060: 292b 5353 5912 2912 2cbd 002e 5912 0c2b
+    0x0000070: 5359 1229 2b53 5301 01b9 0034 0600 b200
+    0x0000080: 1812 3e12 1cb8 0022 b900 2801 0012 3fb9
+    0x0000090: 003c 0200 123f bd00 2b59 120c 123f bd00
+    0x00000a0: 2e59 120c 2b53 5912 292b 5359 122c 2b53
+    0x00000b0: 5359 1229 123f bd00 2e59 120c 2b53 5912
+    0x00000c0: 292b 5359 122c 2b53 5359 122c 123f bd00
+    0x00000d0: 2e59 120c 2b53 5912 292b 5359 122c 2b53
+    0x00000e0: 5301 01b9 0034 0600 0112 40bd 0042 5912
+    0x00000f0: 0c01 5359 1229 0153 5912 2c01 5359 123f
+    0x0000100: 1243 59c7 0008 5701 a700 06b8 0049 b800
+    0x0000110: 4f59 c700 0857 01a7 0006 b800 4953 b900
+    0x0000120: 5302 0057 0112 40bd 0042 5912 0c01 5359
+    0x0000130: 1229 0153 5912 2c01 5359 123f 1243 59c7
+    0x0000140: 0008 5701 a700 06b8 0049 b800 4f59 c700
+    0x0000150: 0857 01a7 0006 b800 4953 b900 5302 0057
+    0x0000160: 0112 40bd 0042 5912 0c01 5359 1229 0153
+    0x0000170: 5912 2c01 5359 123f 1243 59c7 0008 5701
+    0x0000180: a700 06b8 0049 b800 4f59 c700 0857 01a7
+    0x0000190: 0006 b800 4953 b900 5302 0057 0112 40bd
+    0x00001a0: 0042 5912 0c01 5359 1229 0153 5912 2c01
+    0x00001b0: 5359 123f 1243 59c7 0008 5701 a700 06b8
+    0x00001c0: 0049 b800 4f59 c700 0857 01a7 0006 b800
+    0x00001d0: 4953 b900 5302 0057 0112 40bd 0042 5912
+    0x00001e0: 0c01 5359 1229 1255 120c b800 1259 c700
+    0x00001f0: 0857 01a7 0006 b800 5a53 5912 2c12 5c12
+    0x0000200: 0cb8 0012 59c7 0008 5701 a700 06b8 005a
+    0x0000210: 5359 123f 1243 59c7 0008 5701 a700 06b8
+    0x0000220: 0049 b800 4f59 c700 0857 01a7 0006 b800
+    0x0000230: 4953 b900 5302 0057 0112 40bd 0042 5912
+    0x0000240: 0c01 5359 1229 125e 120c b800 1259 c700
+    0x0000250: 0857 01a7 0006 b800 5a53 5912 2c12 6012
+    0x0000260: 0cb8 0012 59c7 0008 5701 a700 06b8 005a
+    0x0000270: 5359 123f 1243 59c7 0008 5701 a700 06b8
+    0x0000280: 0049 b800 4f59 c700 0857 01a7 0006 b800
+    0x0000290: 4953 b900 5302 0057 0112 40bd 0042 5912
+    0x00002a0: 0c01 5359 1229 0153 5912 2c12 6012 0cb8
+    0x00002b0: 0012 59c7 0008 5701 a700 06b8 005a 5359
+    0x00002c0: 123f 1243 59c7 0008 5701 a700 06b8 0049
+    0x00002d0: b800 4f59 c700 0857 01a7 0006 b800 4953
+    0x00002e0: b900 5302 0057 0112 40bd 0042 5912 0c01
+    0x00002f0: 5359 1229 0153 5912 2c12 6012 0cb8 0012
+    0x0000300: 59c7 0008 5701 a700 06b8 005a 5359 123f
+    0x0000310: 1243 59c7 0008 5701 a700 06b8 0049 b800
+    0x0000320: 4f59 c700 0857 01a7 0006 b800 4953 b900
+    0x0000330: 5302 0057 0112 40bd 0042 5912 0c01 5359
+    0x0000340: 1229 0153 5912 2c12 6012 0cb8 0012 59c7
+    0x0000350: 0008 5701 a700 06b8 005a 5359 123f 1243
+    0x0000360: 59c7 0008 5701 a700 06b8 0049 b800 4f59
+    0x0000370: c700 0857 01a7 0006 b800 4953 b900 5302
+    0x0000380: 0057 0112 40bd 0042 5912 0c01 5359 1229
+    0x0000390: 1262 120c b800 1259 c700 0857 01a7 0006
+    0x00003a0: b800 5a53 5912 2c01 5359 123f 1243 59c7
+    0x00003b0: 0008 5701 a700 06b8 0049 b800 4f59 c700
+    0x00003c0: 0857 01a7 0006 b800 4953 b900 5302 0057
+    0x00003d0: 0112 40bd 0042 5912 0c01 5359 1229 0153
+    0x00003e0: 5912 2c01 5359 123f 1243 59c7 0008 5701
+    0x00003f0: a700 06b8 0049 b800 4f59 c700 0857 01a7
+    0x0000400: 0006 b800 4953 b900 5302 0057 0112 40bd
+    0x0000410: 0042 5912 0c01 5359 1229 0153 5912 2c01
+    0x0000420: 5359 123f 1243 59c7 0008 5701 a700 06b8
+    0x0000430: 0049 b800 4f59 c700 0857 01a7 0006 b800
+    0x0000440: 4953 b900 5302 0057 0112 40bd 0042 5912
+    0x0000450: 0c01 5359 1229 0153 5912 2c01 5359 123f
+    0x0000460: 1243 59c7 0008 5701 a700 06b8 0049 b800
+    0x0000470: 4f59 c700 0857 01a7 0006 b800 4953 b900
+    0x0000480: 5302 0057 0112 40bd 0042 5912 0c01 5359
+    0x0000490: 1229 0153 5912 2c01 5359 123f 1243 59c7
+    0x00004a0: 0008 5701 a700 06b8 0049 b800 4f59 c700
+    0x00004b0: 0857 01a7 0006 b800 4953 b900 5302 0057
+    0x00004c0: 0112 40bd 0042 5912 0c01 5359 1229 0153
+    0x00004d0: 5912 2c01 5359 123f 1243 59c7 0008 5701
+    0x00004e0: a700 06b8 0049 b800 4f59 c700 0857 01a7
+    0x00004f0: 0006 b800 4953 b900 5302 0057 0112 40bd
+    0x0000500: 0042 5912 0c01 5359 1229 0153 5912 2c01
+    0x0000510: 5359 123f 1243 59c7 0008 5701 a700 06b8
+    0x0000520: 0049 b800 4f59 c700 0857 01a7 0006 b800
+    0x0000530: 4953 b900 5302 0057 0112 40bd 0042 5912
+    0x0000540: 0c01 5359 1229 0153 5912 2c01 5359 123f
+    0x0000550: 1243 59c7 0008 5701 a700 06b8 0049 b800
+    0x0000560: 4f59 c700 0857 01a7 0006 b800 4953 b900
+    0x0000570: 5302 0057 0112 40bd 0042 5912 0c01 5359
+    0x0000580: 1229 0153 5912 2c01 5359 123f 1263 59c7
+    0x0000590: 0008 5701 a700 06b8 0049 b800 4f59 c700
+    0x00005a0: 0857 01a7 0006 b800 4953 b900 5302 0057
+    0x00005b0: 0112 40bd 0042 5912 0c12 6512 0cb8 0012
+    0x00005c0: 59c7 0008 5701 a700 06b8 005a 5359 1229
+    0x00005d0: 0153 5912 2c12 6712 0cb8 0012 59c7 0008
+    0x00005e0: 5701 a700 06b8 005a 5359 123f 1263 59c7
+    0x00005f0: 0008 5701 a700 06b8 0049 b800 4f59 c700
+    0x0000600: 0857 01a7 0006 b800 4953 b900 5302 0057
+    0x0000610: 0112 40bd 0042 5912 0c12 6912 0cb8 0012
+    0x0000620: 59c7 0008 5701 a700 06b8 005a 5359 1229
+    0x0000630: 126b 120c b800 1259 c700 0857 01a7 0006
+    0x0000640: b800 5a53 5912 2c12 6d12 0cb8 0012 59c7
+    0x0000650: 0008 5701 a700 06b8 005a 5359 123f 1243
+    0x0000660: 59c7 0008 5701 a700 06b8 0049 b800 4f59
+    0x0000670: c700 0857 01a7 0006 b800 4953 b900 5302
+    0x0000680: 0057 0112 40bd 0042 5912 0c01 5359 1229
+    0x0000690: 1267 120c b800 1259 c700 0857 01a7 0006
+    0x00006a0: b800 5a53 5912 2c12 6f12 0cb8 0012 59c7
+    0x00006b0: 0008 5701 a700 06b8 005a 5359 123f 1270
+    0x00006c0: 59c7 0008 5701 a700 06b8 0049 b800 4f59
+    0x00006d0: c700 0857 01a7 0006 b800 4953 b900 5302
+    0x00006e0: 0057 0112 40bd 0042 5912 0c01 5359 1229
+    0x00006f0: 1272 120c b800 1259 c700 0857 01a7 0006
+    0x0000700: b800 5a53 5912 2c01 5359 123f 1263 59c7
+    0x0000710: 0008 5701 a700 06b8 0049 b800 4f59 c700
+    0x0000720: 0857 01a7 0006 b800 4953 b900 5302 0057
+    0x0000730: 0112 40bd 0042 5912 0c01 5359 1229 0153
+    0x0000740: 5912 2c01 5359 123f 1263 59c7 0008 5701
+    0x0000750: a700 06b8 0049 b800 4f59 c700 0857 01a7
+    0x0000760: 0006 b800 4953 b900 5302 0057 b1       
+  Stackmap Table:
+    full_frame(@267,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@270,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@282,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@285,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@327,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@330,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@342,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@345,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@387,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@390,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@402,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@405,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@447,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@450,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@462,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@465,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@502,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#56]})
+    full_frame(@505,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@525,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#56]})
+    full_frame(@528,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@543,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@546,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@558,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@561,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@598,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#56]})
+    full_frame(@601,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@621,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#56]})
+    full_frame(@624,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@639,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@642,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@654,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@657,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@699,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#56]})
+    full_frame(@702,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@717,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@720,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@732,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@735,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@777,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#56]})
+    full_frame(@780,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@795,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@798,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@810,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@813,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@855,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#56]})
+    full_frame(@858,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@873,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@876,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@888,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@891,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@928,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#56]})
+    full_frame(@931,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@951,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@954,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@966,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@969,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1011,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@1014,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1026,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@1029,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1071,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@1074,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1086,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@1089,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1131,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@1134,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1146,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@1149,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1191,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@1194,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1206,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@1209,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1251,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@1254,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1266,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@1269,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1311,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@1314,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1326,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@1329,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1371,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@1374,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1386,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@1389,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1431,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@1434,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1446,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@1449,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1481,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#56]})
+    full_frame(@1484,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1509,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#56]})
+    full_frame(@1512,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1527,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@1530,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1542,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@1545,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1577,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#56]})
+    full_frame(@1580,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1600,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#56]})
+    full_frame(@1603,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1623,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#56]})
+    full_frame(@1626,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1641,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@1644,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1656,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@1659,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1696,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#56]})
+    full_frame(@1699,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1719,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#56]})
+    full_frame(@1722,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1737,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@1740,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1752,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@1755,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1792,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#56]})
+    full_frame(@1795,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1815,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@1818,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1830,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@1833,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1875,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@1878,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1890,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@1893,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+
+java.lang.VerifyError: Bad type on operand stack
+Exception Details:
+  Location:
+    Crafting.__script__()V @259: ifnonnull
+  Reason:
+    Type integer (current frame, stack[5]) is not assignable to reference type
+  Current Frame:
+    bci: @259
+    flags: { }
+    locals: { top, 'crafttweaker/api/item/IItemStack' }
+    stack: { null, '[Lstanhebben/zenscript/value/IAny;', '[Lstanhebben/zenscript/value/IAny;', integer, integer, integer }
+  Bytecode:
+    0x0000000: 120b 120c b800 124c b200 1812 1a12 1cb8
+    0x0000010: 0022 b900 2801 0012 29bd 002b 5912 0c12
+    0x0000020: 2cbd 002e 5912 0c2b 5359 1229 2b53 5301
+    0x0000030: 01b9 0034 0600 b200 1812 3612 1cb8 0022
+    0x0000040: b900 2801 0012 2cb9 003c 0200 122c bd00
+    0x0000050: 2b59 120c 122c bd00 2e59 120c 2b53 5912
+    0x0000060: 292b 5353 5912 2912 2cbd 002e 5912 0c2b
+    0x0000070: 5359 1229 2b53 5301 01b9 0034 0600 b200
+    0x0000080: 1812 3e12 1cb8 0022 b900 2801 0012 3fb9
+    0x0000090: 003c 0200 123f bd00 2b59 120c 123f bd00
+    0x00000a0: 2e59 120c 2b53 5912 292b 5359 122c 2b53
+    0x00000b0: 5359 1229 123f bd00 2e59 120c 2b53 5912
+    0x00000c0: 292b 5359 122c 2b53 5359 122c 123f bd00
+    0x00000d0: 2e59 120c 2b53 5912 292b 5359 122c 2b53
+    0x00000e0: 5301 01b9 0034 0600 0112 40bd 0042 5912
+    0x00000f0: 0c01 5359 1229 0153 5912 2c01 5359 123f
+    0x0000100: 1243 59c7 0008 5701 a700 06b8 0049 b800
+    0x0000110: 4f59 c700 0857 01a7 0006 b800 4953 b900
+    0x0000120: 5302 0057 0112 40bd 0042 5912 0c01 5359
+    0x0000130: 1229 0153 5912 2c01 5359 123f 1243 59c7
+    0x0000140: 0008 5701 a700 06b8 0049 b800 4f59 c700
+    0x0000150: 0857 01a7 0006 b800 4953 b900 5302 0057
+    0x0000160: 0112 40bd 0042 5912 0c01 5359 1229 0153
+    0x0000170: 5912 2c01 5359 123f 1243 59c7 0008 5701
+    0x0000180: a700 06b8 0049 b800 4f59 c700 0857 01a7
+    0x0000190: 0006 b800 4953 b900 5302 0057 0112 40bd
+    0x00001a0: 0042 5912 0c01 5359 1229 0153 5912 2c01
+    0x00001b0: 5359 123f 1243 59c7 0008 5701 a700 06b8
+    0x00001c0: 0049 b800 4f59 c700 0857 01a7 0006 b800
+    0x00001d0: 4953 b900 5302 0057 0112 40bd 0042 5912
+    0x00001e0: 0c01 5359 1229 1255 120c b800 1259 c700
+    0x00001f0: 0857 01a7 0006 b800 5a53 5912 2c12 5c12
+    0x0000200: 0cb8 0012 59c7 0008 5701 a700 06b8 005a
+    0x0000210: 5359 123f 1243 59c7 0008 5701 a700 06b8
+    0x0000220: 0049 b800 4f59 c700 0857 01a7 0006 b800
+    0x0000230: 4953 b900 5302 0057 0112 40bd 0042 5912
+    0x0000240: 0c01 5359 1229 125e 120c b800 1259 c700
+    0x0000250: 0857 01a7 0006 b800 5a53 5912 2c12 6012
+    0x0000260: 0cb8 0012 59c7 0008 5701 a700 06b8 005a
+    0x0000270: 5359 123f 1243 59c7 0008 5701 a700 06b8
+    0x0000280: 0049 b800 4f59 c700 0857 01a7 0006 b800
+    0x0000290: 4953 b900 5302 0057 0112 40bd 0042 5912
+    0x00002a0: 0c01 5359 1229 0153 5912 2c12 6012 0cb8
+    0x00002b0: 0012 59c7 0008 5701 a700 06b8 005a 5359
+    0x00002c0: 123f 1243 59c7 0008 5701 a700 06b8 0049
+    0x00002d0: b800 4f59 c700 0857 01a7 0006 b800 4953
+    0x00002e0: b900 5302 0057 0112 40bd 0042 5912 0c01
+    0x00002f0: 5359 1229 0153 5912 2c12 6012 0cb8 0012
+    0x0000300: 59c7 0008 5701 a700 06b8 005a 5359 123f
+    0x0000310: 1243 59c7 0008 5701 a700 06b8 0049 b800
+    0x0000320: 4f59 c700 0857 01a7 0006 b800 4953 b900
+    0x0000330: 5302 0057 0112 40bd 0042 5912 0c01 5359
+    0x0000340: 1229 0153 5912 2c12 6012 0cb8 0012 59c7
+    0x0000350: 0008 5701 a700 06b8 005a 5359 123f 1243
+    0x0000360: 59c7 0008 5701 a700 06b8 0049 b800 4f59
+    0x0000370: c700 0857 01a7 0006 b800 4953 b900 5302
+    0x0000380: 0057 0112 40bd 0042 5912 0c01 5359 1229
+    0x0000390: 1262 120c b800 1259 c700 0857 01a7 0006
+    0x00003a0: b800 5a53 5912 2c01 5359 123f 1243 59c7
+    0x00003b0: 0008 5701 a700 06b8 0049 b800 4f59 c700
+    0x00003c0: 0857 01a7 0006 b800 4953 b900 5302 0057
+    0x00003d0: 0112 40bd 0042 5912 0c01 5359 1229 0153
+    0x00003e0: 5912 2c01 5359 123f 1243 59c7 0008 5701
+    0x00003f0: a700 06b8 0049 b800 4f59 c700 0857 01a7
+    0x0000400: 0006 b800 4953 b900 5302 0057 0112 40bd
+    0x0000410: 0042 5912 0c01 5359 1229 0153 5912 2c01
+    0x0000420: 5359 123f 1243 59c7 0008 5701 a700 06b8
+    0x0000430: 0049 b800 4f59 c700 0857 01a7 0006 b800
+    0x0000440: 4953 b900 5302 0057 0112 40bd 0042 5912
+    0x0000450: 0c01 5359 1229 0153 5912 2c01 5359 123f
+    0x0000460: 1243 59c7 0008 5701 a700 06b8 0049 b800
+    0x0000470: 4f59 c700 0857 01a7 0006 b800 4953 b900
+    0x0000480: 5302 0057 0112 40bd 0042 5912 0c01 5359
+    0x0000490: 1229 0153 5912 2c01 5359 123f 1243 59c7
+    0x00004a0: 0008 5701 a700 06b8 0049 b800 4f59 c700
+    0x00004b0: 0857 01a7 0006 b800 4953 b900 5302 0057
+    0x00004c0: 0112 40bd 0042 5912 0c01 5359 1229 0153
+    0x00004d0: 5912 2c01 5359 123f 1243 59c7 0008 5701
+    0x00004e0: a700 06b8 0049 b800 4f59 c700 0857 01a7
+    0x00004f0: 0006 b800 4953 b900 5302 0057 0112 40bd
+    0x0000500: 0042 5912 0c01 5359 1229 0153 5912 2c01
+    0x0000510: 5359 123f 1243 59c7 0008 5701 a700 06b8
+    0x0000520: 0049 b800 4f59 c700 0857 01a7 0006 b800
+    0x0000530: 4953 b900 5302 0057 0112 40bd 0042 5912
+    0x0000540: 0c01 5359 1229 0153 5912 2c01 5359 123f
+    0x0000550: 1243 59c7 0008 5701 a700 06b8 0049 b800
+    0x0000560: 4f59 c700 0857 01a7 0006 b800 4953 b900
+    0x0000570: 5302 0057 0112 40bd 0042 5912 0c01 5359
+    0x0000580: 1229 0153 5912 2c01 5359 123f 1263 59c7
+    0x0000590: 0008 5701 a700 06b8 0049 b800 4f59 c700
+    0x00005a0: 0857 01a7 0006 b800 4953 b900 5302 0057
+    0x00005b0: 0112 40bd 0042 5912 0c12 6512 0cb8 0012
+    0x00005c0: 59c7 0008 5701 a700 06b8 005a 5359 1229
+    0x00005d0: 0153 5912 2c12 6712 0cb8 0012 59c7 0008
+    0x00005e0: 5701 a700 06b8 005a 5359 123f 1263 59c7
+    0x00005f0: 0008 5701 a700 06b8 0049 b800 4f59 c700
+    0x0000600: 0857 01a7 0006 b800 4953 b900 5302 0057
+    0x0000610: 0112 40bd 0042 5912 0c12 6912 0cb8 0012
+    0x0000620: 59c7 0008 5701 a700 06b8 005a 5359 1229
+    0x0000630: 126b 120c b800 1259 c700 0857 01a7 0006
+    0x0000640: b800 5a53 5912 2c12 6d12 0cb8 0012 59c7
+    0x0000650: 0008 5701 a700 06b8 005a 5359 123f 1243
+    0x0000660: 59c7 0008 5701 a700 06b8 0049 b800 4f59
+    0x0000670: c700 0857 01a7 0006 b800 4953 b900 5302
+    0x0000680: 0057 0112 40bd 0042 5912 0c01 5359 1229
+    0x0000690: 1267 120c b800 1259 c700 0857 01a7 0006
+    0x00006a0: b800 5a53 5912 2c12 6f12 0cb8 0012 59c7
+    0x00006b0: 0008 5701 a700 06b8 005a 5359 123f 1270
+    0x00006c0: 59c7 0008 5701 a700 06b8 0049 b800 4f59
+    0x00006d0: c700 0857 01a7 0006 b800 4953 b900 5302
+    0x00006e0: 0057 0112 40bd 0042 5912 0c01 5359 1229
+    0x00006f0: 1272 120c b800 1259 c700 0857 01a7 0006
+    0x0000700: b800 5a53 5912 2c01 5359 123f 1263 59c7
+    0x0000710: 0008 5701 a700 06b8 0049 b800 4f59 c700
+    0x0000720: 0857 01a7 0006 b800 4953 b900 5302 0057
+    0x0000730: 0112 40bd 0042 5912 0c01 5359 1229 0153
+    0x0000740: 5912 2c01 5359 123f 1263 59c7 0008 5701
+    0x0000750: a700 06b8 0049 b800 4f59 c700 0857 01a7
+    0x0000760: 0006 b800 4953 b900 5302 0057 b1       
+  Stackmap Table:
+    full_frame(@267,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@270,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@282,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@285,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@327,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@330,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@342,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@345,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@387,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@390,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@402,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@405,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@447,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@450,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@462,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@465,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@502,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#56]})
+    full_frame(@505,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@525,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#56]})
+    full_frame(@528,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@543,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@546,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@558,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@561,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@598,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#56]})
+    full_frame(@601,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@621,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#56]})
+    full_frame(@624,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@639,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@642,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@654,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@657,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@699,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#56]})
+    full_frame(@702,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@717,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@720,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@732,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@735,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@777,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#56]})
+    full_frame(@780,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@795,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@798,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@810,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@813,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@855,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#56]})
+    full_frame(@858,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@873,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@876,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@888,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@891,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@928,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#56]})
+    full_frame(@931,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@951,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@954,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@966,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@969,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1011,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@1014,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1026,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@1029,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1071,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@1074,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1086,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@1089,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1131,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@1134,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1146,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@1149,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1191,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@1194,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1206,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@1209,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1251,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@1254,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1266,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@1269,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1311,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@1314,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1326,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@1329,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1371,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@1374,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1386,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@1389,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1431,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@1434,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1446,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@1449,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1481,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#56]})
+    full_frame(@1484,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1509,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#56]})
+    full_frame(@1512,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1527,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@1530,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1542,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@1545,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1577,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#56]})
+    full_frame(@1580,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1600,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#56]})
+    full_frame(@1603,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1623,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#56]})
+    full_frame(@1626,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1641,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@1644,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1656,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@1659,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1696,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#56]})
+    full_frame(@1699,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1719,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#56]})
+    full_frame(@1722,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1737,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@1740,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1752,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@1755,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1792,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#56]})
+    full_frame(@1795,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1815,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@1818,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1830,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@1833,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1875,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Integer})
+    full_frame(@1878,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+    full_frame(@1890,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#118]})
+    full_frame(@1893,{Top,Object[#56]},{Null,Object[#116],Object[#116],Integer,Object[#66]})
+
+	at __ZenMain__.run(Crafting)
+	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:240)
+	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:105)
+	at crafttweaker.mc1120.events.CommonEventHandler.registerRecipes(CommonEventHandler.java:71)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_99_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857)
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:636)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747)
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: main.zs}
+[INITIALIZATION][CLIENT][ERROR] main.zs:13: Could not resolve <thermalfoundation : coin : 101>
+[INITIALIZATION][CLIENT][ERROR] main.zs:14: Could not resolve <thermalcultivation : watering_can>
+[INITIALIZATION][CLIENT][ERROR] main.zs:15: Could not resolve <thermalcultivation : watering_can : 1>
+[INITIALIZATION][CLIENT][ERROR] main.zs:16: Could not resolve <thermalcultivation : watering_can : 2>
+[INITIALIZATION][CLIENT][ERROR] main.zs:17: Could not resolve <thermalcultivation : watering_can : 3>
+[INITIALIZATION][CLIENT][ERROR] main.zs:18: Could not resolve <thermalcultivation : watering_can : 4>
+[INITIALIZATION][CLIENT][ERROR] main.zs:19: Could not resolve <thermalcultivation : watering_can : 32000>
+[INITIALIZATION][CLIENT][ERROR] main.zs:20: Could not resolve <thermaldynamics : duct_0>
+[INITIALIZATION][CLIENT][ERROR] main.zs:21: Could not resolve <thermaldynamics : duct_0 : 1>
+[INITIALIZATION][CLIENT][ERROR] main.zs:22: Could not resolve <thermaldynamics : duct_0 : 2>
+[INITIALIZATION][CLIENT][ERROR] main.zs:23: Could not resolve <thermaldynamics : duct_0 : 3>
+[INITIALIZATION][CLIENT][ERROR] main.zs:24: Could not resolve <thermaldynamics : duct_0 : 4>
+[INITIALIZATION][CLIENT][ERROR] main.zs:25: Could not resolve <thermaldynamics : duct_0 : 5>
+[INITIALIZATION][CLIENT][ERROR] main.zs:26: Could not resolve <thermaldynamics : duct_0 : 6>
+[INITIALIZATION][CLIENT][ERROR] main.zs:27: Could not resolve <thermaldynamics : duct_0 : 7>
+[INITIALIZATION][CLIENT][ERROR] main.zs:28: Could not resolve <thermaldynamics : duct_0 : 8>
+[INITIALIZATION][CLIENT][ERROR] main.zs:29: Could not resolve <thermaldynamics : duct_0 : 9>
+[INITIALIZATION][CLIENT][ERROR] main.zs:30: Could not resolve <thermaldynamics : duct_16>
+[INITIALIZATION][CLIENT][ERROR] main.zs:31: Could not resolve <thermaldynamics : duct_16 : 1>
+[INITIALIZATION][CLIENT][ERROR] main.zs:32: Could not resolve <thermaldynamics : duct_16 : 2>
+[INITIALIZATION][CLIENT][ERROR] main.zs:33: Could not resolve <thermaldynamics : duct_16 : 3>
+[INITIALIZATION][CLIENT][ERROR] main.zs:34: Could not resolve <thermaldynamics : duct_16 : 4>
+[INITIALIZATION][CLIENT][ERROR] main.zs:35: Could not resolve <thermaldynamics : duct_16 : 5>
+[INITIALIZATION][CLIENT][ERROR] main.zs:36: Could not resolve <thermaldynamics : duct_16 : 6>
+[INITIALIZATION][CLIENT][ERROR] main.zs:37: Could not resolve <thermaldynamics : duct_16 : 7>
+[INITIALIZATION][CLIENT][ERROR] main.zs:38: Could not resolve <thermaldynamics : duct_32>
+[INITIALIZATION][CLIENT][ERROR] main.zs:39: Could not resolve <thermaldynamics : duct_32 : 1>
+[INITIALIZATION][CLIENT][ERROR] main.zs:40: Could not resolve <thermaldynamics : duct_32 : 2>
+[INITIALIZATION][CLIENT][ERROR] main.zs:41: Could not resolve <thermaldynamics : duct_64 : 3>
+[INITIALIZATION][CLIENT][ERROR] main.zs:42: Could not resolve <thermaldynamics : duct_64 : 2>
+[INITIALIZATION][CLIENT][ERROR] main.zs:43: Could not resolve <thermaldynamics : duct_64 : 1>
+[INITIALIZATION][CLIENT][ERROR] main.zs:44: Could not resolve <thermaldynamics : duct_64>
+[INITIALIZATION][CLIENT][ERROR] main.zs:45: Could not resolve <thermaldynamics : duct_48>
+[INITIALIZATION][CLIENT][ERROR] main.zs:46: Could not resolve <thermaldynamics : duct_32 : 7>
+[INITIALIZATION][CLIENT][ERROR] main.zs:47: Could not resolve <thermaldynamics : duct_32 : 7>
+[INITIALIZATION][CLIENT][ERROR] main.zs:48: Could not resolve <thermaldynamics : duct_32 : 7>
+[INITIALIZATION][CLIENT][ERROR] main.zs:49: Could not resolve <thermaldynamics : duct_32 : 6>
+[INITIALIZATION][CLIENT][ERROR] main.zs:50: Could not resolve <thermalfoundation : coin : 101>
+[INITIALIZATION][CLIENT][ERROR] main.zs:51: Could not resolve <thermaldynamics : duct_0 : 3>
+[INITIALIZATION][CLIENT][ERROR] main.zs:52: Could not resolve <thermaldynamics : duct_0 : 4>
+[INITIALIZATION][CLIENT][ERROR] main.zs:53: Could not resolve <thermaldynamics : duct_0 : 5>
+[INITIALIZATION][CLIENT][ERROR] main.zs:54: Could not resolve <thermaldynamics : duct_0 : 2>
+[INITIALIZATION][CLIENT][ERROR] main.zs:55: Could not resolve <thermaldynamics : duct_32 : 2>
+[INITIALIZATION][CLIENT][ERROR] main.zs:56: Could not resolve <thermaldynamics : duct_32 : 2>
+[INITIALIZATION][CLIENT][ERROR] main.zs:57: Could not resolve <thermaldynamics : duct_32 : 2>
+[INITIALIZATION][CLIENT][ERROR] main.zs:58: Could not resolve <thermaldynamics : duct_32 : 3>
+[INITIALIZATION][CLIENT][ERROR] main.zs:59: Could not resolve <thermaldynamics : duct_32 : 6>
+[INITIALIZATION][CLIENT][ERROR] main.zs:60: Could not resolve <thermaldynamics : duct_32 : 6>
+[INITIALIZATION][CLIENT][ERROR] main.zs:61: Could not resolve <thermaldynamics : duct_32 : 5>
+[INITIALIZATION][CLIENT][ERROR] main.zs:62: Could not resolve <thermaldynamics : duct_32 : 5>
+[INITIALIZATION][CLIENT][ERROR] main.zs:63: Could not resolve <thermaldynamics : duct_32 : 4>
+[INITIALIZATION][CLIENT][ERROR] main.zs:64: Could not resolve <thermaldynamics : duct_32 : 5>
+[INITIALIZATION][CLIENT][ERROR] main.zs:65: Could not resolve <thermaldynamics : duct_32 : 4>
+[INITIALIZATION][CLIENT][ERROR] main.zs:66: Could not resolve <thermaldynamics : duct_32 : 4>
+[INITIALIZATION][CLIENT][ERROR] main.zs:67: Could not resolve <thermaldynamics : duct_32 : 3>
+[INITIALIZATION][CLIENT][ERROR] main.zs:68: Could not resolve <thermaldynamics : servo>
+[INITIALIZATION][CLIENT][ERROR] main.zs:69: Could not resolve <thermaldynamics : servo : 1>
+[INITIALIZATION][CLIENT][ERROR] main.zs:70: Could not resolve <thermaldynamics : servo : 2>
+[INITIALIZATION][CLIENT][ERROR] main.zs:71: Could not resolve <thermaldynamics : servo : 3>
+[INITIALIZATION][CLIENT][ERROR] main.zs:72: Could not resolve <thermaldynamics : servo : 4>
+[INITIALIZATION][CLIENT][ERROR] main.zs:73: Could not resolve <thermaldynamics : filter>
+[INITIALIZATION][CLIENT][ERROR] main.zs:74: Could not resolve <thermaldynamics : filter : 1>
+[INITIALIZATION][CLIENT][ERROR] main.zs:75: Could not resolve <thermaldynamics : filter : 2>
+[INITIALIZATION][CLIENT][ERROR] main.zs:76: Could not resolve <thermaldynamics : filter : 3>
+[INITIALIZATION][CLIENT][ERROR] main.zs:77: Could not resolve <thermaldynamics : filter : 4>
+[INITIALIZATION][CLIENT][ERROR] main.zs:78: Could not resolve <thermaldynamics : retriever>
+[INITIALIZATION][CLIENT][ERROR] main.zs:79: Could not resolve <thermaldynamics : retriever : 1>
+[INITIALIZATION][CLIENT][ERROR] main.zs:80: Could not resolve <thermaldynamics : retriever : 2>
+[INITIALIZATION][CLIENT][ERROR] main.zs:81: Could not resolve <thermaldynamics : retriever : 3>
+[INITIALIZATION][CLIENT][ERROR] main.zs:82: Could not resolve <thermaldynamics : retriever : 4>
+[INITIALIZATION][CLIENT][ERROR] main.zs:83: Could not resolve <thermaldynamics : relay>
+[INITIALIZATION][CLIENT][ERROR] main.zs:84: Could not resolve <thermalexpansion : machine>
+[INITIALIZATION][CLIENT][ERROR] main.zs:85: Could not resolve <thermalexpansion : machine : 1>
+[INITIALIZATION][CLIENT][ERROR] main.zs:86: Could not resolve <thermalexpansion : machine : 2>
+[INITIALIZATION][CLIENT][ERROR] main.zs:87: Could not resolve <thermalexpansion : machine : 3>
+[INITIALIZATION][CLIENT][ERROR] main.zs:88: Could not resolve <thermalexpansion : machine : 4>
+[INITIALIZATION][CLIENT][ERROR] main.zs:89: Could not resolve <thermalexpansion : machine : 5>
+[INITIALIZATION][CLIENT][ERROR] main.zs:90: Could not resolve <thermalexpansion : machine : 9>
+[INITIALIZATION][CLIENT][ERROR] main.zs:91: Could not resolve <thermalexpansion : machine : 6>
+[INITIALIZATION][CLIENT][ERROR] main.zs:92: Could not resolve <thermalexpansion : machine : 7>
+[INITIALIZATION][CLIENT][ERROR] main.zs:93: Could not resolve <thermalexpansion : machine : 8>
+[INITIALIZATION][CLIENT][ERROR] main.zs:94: Could not resolve <thermalexpansion : machine : 9>
+[INITIALIZATION][CLIENT][ERROR] main.zs:95: Could not resolve <thermalexpansion : machine : 14>
+[INITIALIZATION][CLIENT][ERROR] main.zs:96: Could not resolve <thermalexpansion : machine : 10>
+[INITIALIZATION][CLIENT][ERROR] main.zs:97: Could not resolve <thermalexpansion : machine : 11>
+[INITIALIZATION][CLIENT][ERROR] main.zs:98: Could not resolve <thermalexpansion : machine : 12>
+[INITIALIZATION][CLIENT][ERROR] main.zs:99: Could not resolve <thermalexpansion : machine : 13>
+[INITIALIZATION][CLIENT][ERROR] main.zs:100: Could not resolve <thermalexpansion : machine : 15>
+[INITIALIZATION][CLIENT][ERROR] main.zs:101: Could not resolve <thermalexpansion : dynamo>
+[INITIALIZATION][CLIENT][ERROR] main.zs:102: Could not resolve <thermalexpansion : dynamo : 1>
+[INITIALIZATION][CLIENT][ERROR] main.zs:103: Could not resolve <thermalexpansion : dynamo : 2>
+[INITIALIZATION][CLIENT][ERROR] main.zs:104: Could not resolve <thermalexpansion : dynamo : 3>
+[INITIALIZATION][CLIENT][ERROR] main.zs:105: Could not resolve <thermalexpansion : dynamo : 4>
+[INITIALIZATION][CLIENT][ERROR] main.zs:106: Could not resolve <thermalexpansion : dynamo : 5>
+[INITIALIZATION][CLIENT][ERROR] main.zs:107: Could not resolve <thermalexpansion : device>
+[INITIALIZATION][CLIENT][ERROR] main.zs:108: Could not resolve <thermalexpansion : device : 1>
+[INITIALIZATION][CLIENT][ERROR] main.zs:109: Could not resolve <thermalexpansion : device : 2>
+[INITIALIZATION][CLIENT][ERROR] main.zs:110: Could not resolve <thermalexpansion : device : 3>
+[INITIALIZATION][CLIENT][ERROR] main.zs:111: Could not resolve <thermalexpansion : device : 4>
+[INITIALIZATION][CLIENT][ERROR] main.zs:112: Could not resolve <thermalexpansion : device : 5>
+[INITIALIZATION][CLIENT][ERROR] main.zs:113: Could not resolve <thermalexpansion : device : 6>
+[INITIALIZATION][CLIENT][ERROR] main.zs:114: Could not resolve <thermalexpansion : device : 7>
+[INITIALIZATION][CLIENT][ERROR] main.zs:115: Could not resolve <thermalexpansion : device : 8>
+[INITIALIZATION][CLIENT][ERROR] main.zs:116: Could not resolve <thermalexpansion : device : 9>
+[INITIALIZATION][CLIENT][ERROR] main.zs:117: Could not resolve <thermalexpansion : device : 10>
+[INITIALIZATION][CLIENT][ERROR] main.zs:118: Could not resolve <thermalexpansion : device : 11>
+[INITIALIZATION][CLIENT][ERROR] main.zs:119: Could not resolve <thermalexpansion : device : 12>
+[INITIALIZATION][CLIENT][ERROR] main.zs:120: Could not resolve <thermalexpansion : strongbox>
+[INITIALIZATION][CLIENT][ERROR] main.zs:121: Could not resolve <thermalexpansion : capacitor>
+[INITIALIZATION][CLIENT][ERROR] main.zs:122: Could not resolve <thermalexpansion : capacitor : 32000>
+[INITIALIZATION][CLIENT][ERROR] main.zs:123: Could not resolve <thermalexpansion : capacitor : 4>
+[INITIALIZATION][CLIENT][ERROR] main.zs:124: Could not resolve <thermalexpansion : capacitor : 3>
+[INITIALIZATION][CLIENT][ERROR] main.zs:125: Could not resolve <thermalexpansion : capacitor : 2>
+[INITIALIZATION][CLIENT][ERROR] main.zs:126: Could not resolve <thermalexpansion : capacitor : 1>
+[INITIALIZATION][CLIENT][ERROR] main.zs:127: Could not resolve <thermalexpansion : reservoir>
+[INITIALIZATION][CLIENT][ERROR] main.zs:128: Could not resolve <thermalexpansion : reservoir : 1>
+[INITIALIZATION][CLIENT][ERROR] main.zs:129: Could not resolve <thermalexpansion : reservoir : 2>
+[INITIALIZATION][CLIENT][ERROR] main.zs:130: Could not resolve <thermalexpansion : reservoir : 3>
+[INITIALIZATION][CLIENT][ERROR] main.zs:131: Could not resolve <thermalexpansion : reservoir : 4>
+[INITIALIZATION][CLIENT][ERROR] main.zs:132: Could not resolve <thermalexpansion : reservoir : 32000>
+[INITIALIZATION][CLIENT][ERROR] main.zs:133: Could not resolve <thermalexpansion : satchel>
+[INITIALIZATION][CLIENT][ERROR] main.zs:134: Could not resolve <thermalexpansion : satchel : 1>
+[INITIALIZATION][CLIENT][ERROR] main.zs:135: Could not resolve <thermalexpansion : satchel : 2>
+[INITIALIZATION][CLIENT][ERROR] main.zs:136: Could not resolve <thermalexpansion : satchel : 3>
+[INITIALIZATION][CLIENT][ERROR] main.zs:137: Could not resolve <thermalexpansion : satchel : 4>
+[INITIALIZATION][CLIENT][ERROR] main.zs:138: Could not resolve <thermalexpansion : satchel : 100>
+[INITIALIZATION][CLIENT][ERROR] main.zs:139: Could not resolve <thermalexpansion : satchel : 32000>
+[INITIALIZATION][CLIENT][ERROR] main.zs:140: Could not resolve <thermalexpansion : frame>
+[INITIALIZATION][CLIENT][ERROR] main.zs:141: Could not resolve <thermalexpansion : frame : 64>
+[INITIALIZATION][CLIENT][ERROR] main.zs:142: Could not resolve <thermalexpansion : augment : 336>
+[INITIALIZATION][CLIENT][ERROR] main.zs:143: Could not resolve <thermalfoundation : upgrade>
+[INITIALIZATION][CLIENT][ERROR] main.zs:144: Could not resolve <thermalfoundation : upgrade : 1>
+[INITIALIZATION][CLIENT][ERROR] main.zs:145: Could not resolve <thermalfoundation : upgrade : 2>
+[INITIALIZATION][CLIENT][ERROR] main.zs:146: Could not resolve <thermalfoundation : upgrade : 3>
+[INITIALIZATION][CLIENT][ERROR] main.zs:147: Could not resolve <thermalfoundation : upgrade : 33>
+[INITIALIZATION][CLIENT][ERROR] main.zs:148: Could not resolve <thermalfoundation : upgrade : 34>
+[INITIALIZATION][CLIENT][ERROR] main.zs:149: Could not resolve <thermalfoundation : upgrade : 35>
+[INITIALIZATION][CLIENT][ERROR] main.zs:150: Could not resolve <thermalfoundation : upgrade : 256>
+[INITIALIZATION][CLIENT][ERROR] main.zs:151: Could not resolve <thermalfoundation : material : 512>
+[INITIALIZATION][CLIENT][ERROR] main.zs:152: Could not resolve <thermalfoundation : material : 513>
+[INITIALIZATION][CLIENT][ERROR] main.zs:153: Could not resolve <thermalfoundation : material : 514>
+[INITIALIZATION][CLIENT][ERROR] main.zs:154: Could not resolve <thermalfoundation : material : 515>
+[INITIALIZATION][CLIENT][ERROR] main.zs:155: Could not resolve <mysticalagriculture : tier1_inferium_seeds>
+[INITIALIZATION][CLIENT][ERROR] main.zs:156: Could not resolve <mysticalagriculture : tier2_inferium_seeds>
+[INITIALIZATION][CLIENT][ERROR] main.zs:157: Could not resolve <mysticalagriculture : tier3_inferium_seeds>
+[INITIALIZATION][CLIENT][ERROR] main.zs:158: Could not resolve <mysticalagriculture : tier4_inferium_seeds>
+[INITIALIZATION][CLIENT][ERROR] main.zs:159: Could not resolve <mysticalagriculture : tier5_inferium_seeds>
+[INITIALIZATION][CLIENT][ERROR] main.zs:160: Could not resolve <mysticalagriculture : stone_seeds>
+[INITIALIZATION][CLIENT][ERROR] main.zs:161: Could not resolve <mysticalagriculture : ice_seeds>
+[INITIALIZATION][CLIENT][ERROR] main.zs:162: Could not resolve <mysticalagriculture : fire_seeds>
+[INITIALIZATION][CLIENT][ERROR] main.zs:163: Could not resolve <mysticalagriculture : nether_seeds>
+[INITIALIZATION][CLIENT][ERROR] main.zs:164: Could not resolve <mysticalagriculture : coal_seeds>
+[INITIALIZATION][CLIENT][ERROR] main.zs:165: Could not resolve <mysticalagriculture : iron_seeds>
+[INITIALIZATION][CLIENT][ERROR] main.zs:166: Could not resolve <mysticalagriculture : nether_quartz_seeds>
+[INITIALIZATION][CLIENT][ERROR] main.zs:167: Could not resolve <mysticalagriculture : glowstone_seeds>
+[INITIALIZATION][CLIENT][ERROR] main.zs:168: Could not resolve <mysticalagriculture : redstone_seeds>
+[INITIALIZATION][CLIENT][ERROR] main.zs:169: Could not resolve <mysticalagriculture : gold_seeds>
+[INITIALIZATION][CLIENT][ERROR] main.zs:170: Could not resolve <mysticalagriculture : lapis_lazuli_seeds>
+[INITIALIZATION][CLIENT][ERROR] main.zs:171: Could not resolve <mysticalagriculture : end_seeds>
+[INITIALIZATION][CLIENT][ERROR] main.zs:172: Could not resolve <mysticalagriculture : experience_seeds>
+[INITIALIZATION][CLIENT][ERROR] main.zs:173: Could not resolve <mysticalagriculture : sheep_seeds>
+[INITIALIZATION][CLIENT][ERROR] main.zs:174: Could not resolve <mysticalagriculture : slime_seeds>
+[INITIALIZATION][CLIENT][ERROR] main.zs:175: Could not resolve <mysticalagriculture : rabbit_seeds>
+[INITIALIZATION][CLIENT][ERROR] main.zs:176: Could not resolve <mysticalagriculture : guardian_seeds>
+[INITIALIZATION][CLIENT][ERROR] main.zs:177: Could not resolve <mysticalagriculture : wither_skeleton_seeds>
+[INITIALIZATION][CLIENT][ERROR] main.zs:178: Could not resolve <mysticalagriculture : aluminum_seeds>
+[INITIALIZATION][CLIENT][ERROR] main.zs:179: Could not resolve <mysticalagriculture : copper_seeds>
+[INITIALIZATION][CLIENT][ERROR] main.zs:180: Could not resolve <mysticalagriculture : tin_seeds>
+[INITIALIZATION][CLIENT][ERROR] main.zs:181: Could not resolve <mysticalagriculture : lead_seeds>
+[INITIALIZATION][CLIENT][ERROR] main.zs:182: Could not resolve <mysticalagriculture : nickel_seeds>
+[INITIALIZATION][CLIENT][ERROR] main.zs:183: Could not resolve <mysticalagriculture : platinum_seeds>
+[INITIALIZATION][CLIENT][ERROR] main.zs:184: Could not resolve <mysticalagriculture : marble_seeds>
+[INITIALIZATION][CLIENT][ERROR] main.zs:185: Could not resolve <thermalfoundation : coin : 101>
+[INITIALIZATION][CLIENT][ERROR] main.zs:186: Could not resolve <thermalfoundation : material : 513>
+[INITIALIZATION][CLIENT][ERROR] main.zs:187: Could not resolve <thermalfoundation : material : 514>
+[INITIALIZATION][CLIENT][ERROR] main.zs:188: Could not resolve <thermalfoundation : material : 512>
+[INITIALIZATION][CLIENT][ERROR] main.zs:189: Could not resolve <thermalfoundation : material : 515>
+[INITIALIZATION][CLIENT][ERROR] main.zs:190: Could not resolve <thermalexpansion : frame>
+[INITIALIZATION][CLIENT][ERROR] main.zs:191: Could not resolve <thermalexpansion : frame : 64>
+[INITIALIZATION][CLIENT][ERROR] main.zs:193: Could not resolve <aether : aether_teleporter>
+[INITIALIZATION][CLIENT][ERROR] [crafttweaker]: Error executing {[0:crafttweaker]: main.zs}: Truncated class file
+java.lang.ClassFormatError: Truncated class file
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:760)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:642)
+	at stanhebben.zenscript.ZenModule$MyClassLoader.loadClass(ZenModule.java:419)
+	at Main.__script__(main.zs:12)
+	at __ZenMain__.run(Main)
+	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:240)
+	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:105)
+	at crafttweaker.mc1120.events.CommonEventHandler.registerRecipes(CommonEventHandler.java:71)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_99_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857)
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:636)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747)
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: tweakergui_auto_gen.zs}
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:1: Could not resolve <thermalexpansion : dynamo>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:3: Could not resolve <thermalfoundation : material : 514>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:3: Could not resolve <thermalfoundation : material : 512>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:3: Could not resolve <thermalfoundation : material : 514>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:4: Could not resolve <immersiveengineering : metal : 8>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:4: Could not resolve <immersiveengineering : metal : 8>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:5: Could not resolve <thermalexpansion : machine : 9>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:6: Could not resolve <thermalfoundation : glass_alloy : 3>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:6: Could not resolve <thermaldynamics : duct_0 : 1>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:6: Could not resolve <thermalfoundation : glass_alloy : 3>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:7: Could not resolve <thermaldynamics : duct_0 : 1>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:7: Could not resolve <thermalexpansion : frame>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:7: Could not resolve <thermaldynamics : duct_0 : 1>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:8: Could not resolve <thermalfoundation : material : 515>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:8: Could not resolve <thermaldynamics : duct_0 : 1>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:8: Could not resolve <thermalfoundation : material : 515>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:9: Could not resolve <thermalexpansion : machine : 8>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:10: Could not resolve <thermalfoundation : glass>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:10: Could not resolve <thermalfoundation : material : 512>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:10: Could not resolve <thermalfoundation : glass>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:11: Could not resolve <thermaldynamics : duct_16 : 2>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:11: Could not resolve <thermalexpansion : frame>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:11: Could not resolve <thermaldynamics : duct_16 : 2>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:12: Could not resolve <thermalfoundation : glass>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:12: Could not resolve <thermalfoundation : material : 512>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:12: Could not resolve <thermalfoundation : glass>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:13: Could not resolve <thermalexpansion : device : 12>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:14: Could not resolve <thermalfoundation : glass_alloy : 3>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:14: Could not resolve <thermalfoundation : glass_alloy : 3>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:15: Could not resolve <thermalexpansion : frame : 64>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:16: Could not resolve <thermalfoundation : material : 512>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:16: Could not resolve <thermalfoundation : material : 512>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:17: Could not resolve <thermalexpansion : machine : 14>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:18: Could not resolve <thermaldynamics : duct_16 : 2>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:19: Could not resolve <thermalfoundation : material : 514>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:19: Could not resolve <thermalexpansion : frame>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:19: Could not resolve <thermalfoundation : material : 514>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:20: Could not resolve <thermalfoundation : glass_alloy : 3>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:21: Could not resolve <thermalexpansion : device : 1>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:22: Could not resolve <thermalfoundation : glass>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:22: Could not resolve <thermaldynamics : duct_32>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:22: Could not resolve <thermalfoundation : glass>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:23: Could not resolve <thermalexpansion : frame : 64>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:24: Could not resolve <thermalfoundation : material : 513>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:24: Could not resolve <thermalfoundation : material : 512>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:24: Could not resolve <thermalfoundation : material : 513>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:25: Could not resolve <thermalexpansion : machine : 6>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:26: Could not resolve <thermalfoundation : glass_alloy : 3>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:26: Could not resolve <thermaldynamics : duct_16 : 2>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:26: Could not resolve <thermalfoundation : glass_alloy : 3>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:27: Could not resolve <thermalfoundation : material : 290>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:27: Could not resolve <thermalexpansion : frame>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:27: Could not resolve <thermalfoundation : material : 290>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:28: Could not resolve <thermalfoundation : material : 515>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:28: Could not resolve <thermalfoundation : material : 515>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:29: Could not resolve <thermalexpansion : machine>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:30: Could not resolve <thermalfoundation : glass>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:30: Could not resolve <thermaldynamics : duct_32>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:30: Could not resolve <thermalfoundation : glass>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:31: Could not resolve <thermalfoundation : material : 24>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:31: Could not resolve <thermalexpansion : frame>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:31: Could not resolve <thermalfoundation : material : 24>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:32: Could not resolve <thermalfoundation : material : 513>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:32: Could not resolve <thermalfoundation : material : 513>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:57: Could not resolve <aether : aether_teleporter>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:61: Could not resolve <immersiveengineering : material : 11>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:65: Could not resolve <thermalcultivation : watering_can : 3>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:66: Could not resolve <thermalfoundation : material : 657>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:66: Could not resolve <thermalfoundation : material : 165>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:67: Could not resolve <thermalfoundation : material : 165>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:67: Could not resolve <thermalfoundation : material : 165>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:68: Could not resolve <thermalfoundation : material : 165>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:69: Could not resolve <immersiveengineering : material : 4>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:70: Could not resolve <immersiveengineering : seed>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:70: Could not resolve <immersiveengineering : seed>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:70: Could not resolve <immersiveengineering : seed>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:71: Could not resolve <immersiveengineering : seed>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:71: Could not resolve <immersiveengineering : seed>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:71: Could not resolve <immersiveengineering : seed>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:72: Could not resolve <immersiveengineering : seed>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:72: Could not resolve <immersiveengineering : seed>
+[INITIALIZATION][CLIENT][ERROR] tweakergui_auto_gen.zs:72: Could not resolve <immersiveengineering : seed>
+[INITIALIZATION][CLIENT][ERROR] [crafttweaker]: Error executing {[0:crafttweaker]: tweakergui_auto_gen.zs}: Bad type on operand stack
+Exception Details:
+  Location:
+    Tweakergui_auto_gen.__script__()V @1778: ifnonnull
+  Reason:
+    Type integer (current frame, stack[4]) is not assignable to reference type
+  Current Frame:
+    bci: @1778
+    flags: { }
+    locals: { }
+    stack: { 'crafttweaker/api/recipes/IRecipeManager', 'java/lang/String', null, integer, integer }
+  Bytecode:
+    0x0000000: b200 0f12 1101 1212 bd00 1459 1215 1212
+    0x0000010: bd00 1759 1215 0153 5912 1812 1a12 15b8
+    0x0000020: 0020 5359 1221 0153 5359 1218 1212 bd00
+    0x0000030: 1759 1215 0153 5912 1801 5359 1221 0153
+    0x0000040: 5359 1221 1212 bd00 1759 1215 0153 5912
+    0x0000050: 1812 2312 15b8 0020 5359 1221 0153 5301
+    0x0000060: 01b9 0029 0600 b200 0f12 2b01 1212 bd00
+    0x0000070: 1459 1215 1212 bd00 1759 1215 0153 5912
+    0x0000080: 1801 5359 1221 0153 5359 1218 1212 bd00
+    0x0000090: 1759 1215 0153 5912 1801 5359 1221 0153
+    0x00000a0: 5359 1221 1212 bd00 1759 1215 0153 5912
+    0x00000b0: 1801 5359 1221 0153 5301 01b9 0029 0600
+    0x00000c0: b200 0f12 2d01 1212 bd00 1459 1215 1212
+    0x00000d0: bd00 1759 1215 0153 5912 1801 5359 1221
+    0x00000e0: 0153 5359 1218 1212 bd00 1759 1215 0153
+    0x00000f0: 5912 1801 5359 1221 0153 5359 1221 1212
+    0x0000100: bd00 1759 1215 0153 5912 1801 5359 1221
+    0x0000110: 0153 5301 01b9 0029 0600 b200 0f12 2f01
+    0x0000120: 1212 bd00 1459 1215 1212 bd00 1759 1215
+    0x0000130: 0153 5912 1812 3112 15b8 0020 5359 1221
+    0x0000140: 0153 5359 1218 1212 bd00 1759 1215 1231
+    0x0000150: 1215 b800 2053 5912 1801 5359 1221 1231
+    0x0000160: 1215 b800 2053 5359 1221 1212 bd00 1759
+    0x0000170: 1215 0153 5912 1812 3112 15b8 0020 5359
+    0x0000180: 1221 0153 5301 01b9 0029 0600 b200 0f12
+    0x0000190: 3301 1212 bd00 1459 1215 1212 bd00 1759
+    0x00001a0: 1215 1223 1215 b800 2053 5912 1801 5359
+    0x00001b0: 1221 1223 1215 b800 2053 5359 1218 1212
+    0x00001c0: bd00 1759 1215 0153 5912 1801 5359 1221
+    0x00001d0: 0153 5359 1221 1212 bd00 1759 1215 1223
+    0x00001e0: 1215 b800 2053 5912 1801 5359 1221 1223
+    0x00001f0: 1215 b800 2053 5301 01b9 0029 0600 b200
+    0x0000200: 0f12 3501 1212 bd00 1459 1215 1212 bd00
+    0x0000210: 1759 1215 0153 5912 1801 5359 1221 0153
+    0x0000220: 5359 1218 1212 bd00 1759 1215 121a 1215
+    0x0000230: b800 2053 5912 1801 5359 1221 121a 1215
+    0x0000240: b800 2053 5359 1221 1212 bd00 1759 1215
+    0x0000250: 0153 5912 1801 5359 1221 0153 5301 01b9
+    0x0000260: 0029 0600 b200 0f12 3701 1212 bd00 1459
+    0x0000270: 1215 1212 bd00 1759 1215 0153 5912 1801
+    0x0000280: 5359 1221 0153 5359 1218 1212 bd00 1759
+    0x0000290: 1215 0153 5912 1801 5359 1221 0153 5359
+    0x00002a0: 1221 1212 bd00 1759 1215 0153 5912 1812
+    0x00002b0: 3912 15b8 0020 5359 1221 0153 5301 01b9
+    0x00002c0: 0029 0600 b200 0f12 3b01 1212 bd00 1459
+    0x00002d0: 1215 1212 bd00 1759 1215 0153 5912 1801
+    0x00002e0: 5359 1221 0153 5359 1218 1212 bd00 1759
+    0x00002f0: 1215 0153 5912 1801 5359 1221 0153 5359
+    0x0000300: 1221 1212 bd00 1759 1215 0153 5912 1812
+    0x0000310: 3912 15b8 0020 5359 1221 0153 5301 01b9
+    0x0000320: 0029 0600 b200 0f12 3d12 3f12 15b8 0020
+    0x0000330: 1212 bd00 1459 1215 1212 bd00 1759 1215
+    0x0000340: 1241 b800 4753 5912 1812 41b8 0047 5359
+    0x0000350: 1221 1241 b800 4753 5359 1218 1212 bd00
+    0x0000360: 1759 1215 1241 b800 4753 5912 1812 49b8
+    0x0000370: 0047 5359 1221 1241 b800 4753 5359 1221
+    0x0000380: 1212 bd00 1759 1215 1249 b800 4753 5912
+    0x0000390: 1812 49b8 0047 5359 1221 1249 b800 4753
+    0x00003a0: 5301 01b9 0029 0600 b200 0f12 4b12 4d12
+    0x00003b0: 15b8 0020 124e b900 5402 0012 12bd 0014
+    0x00003c0: 5912 1512 12bd 0017 5912 1512 5612 15b8
+    0x00003d0: 0020 5359 1218 1258 1215 b800 2053 5912
+    0x00003e0: 2112 5812 15b8 0020 5353 5912 1812 12bd
+    0x00003f0: 0017 5912 1512 5612 15b8 0020 5359 1218
+    0x0000400: 125a 1215 b800 2053 5912 2112 5a12 15b8
+    0x0000410: 0020 5353 5912 2112 12bd 0017 5912 1512
+    0x0000420: 5612 15b8 0020 5359 1218 1258 1215 b800
+    0x0000430: 2053 5912 2112 5812 15b8 0020 5353 0101
+    0x0000440: b900 2906 00b2 000f 125c 124d 1215 b800
+    0x0000450: 2012 4eb9 0054 0200 1212 bd00 1459 1215
+    0x0000460: 1212 bd00 1759 1215 1256 1215 b800 2053
+    0x0000470: 5912 1812 49b8 0047 5359 1221 1249 b800
+    0x0000480: 4753 5359 1218 1212 bd00 1759 1215 1256
+    0x0000490: 1215 b800 2053 5912 1812 5a12 15b8 0020
+    0x00004a0: 5359 1221 125a 1215 b800 2053 5359 1221
+    0x00004b0: 1212 bd00 1759 1215 1256 1215 b800 2053
+    0x00004c0: 5912 1812 49b8 0047 5359 1221 1249 b800
+    0x00004d0: 4753 5301 01b9 0029 0600 b200 0f12 5e12
+    0x00004e0: 6012 15b8 0020 1212 bd00 1459 1215 1212
+    0x00004f0: bd00 1759 1215 0153 5912 1812 49b8 0047
+    0x0000500: 5359 1221 1262 1215 b800 2053 5359 1218
+    0x0000510: 1212 bd00 1759 1215 0153 5912 1812 6412
+    0x0000520: 15b8 0020 5359 1221 0153 5359 1221 1212
+    0x0000530: bd00 1759 1215 0153 5912 1812 6412 15b8
+    0x0000540: 0020 5359 1221 0153 5301 01b9 0029 0600
+    0x0000550: b200 0f12 6612 6812 15b8 0020 1212 bd00
+    0x0000560: 1459 1215 1212 bd00 1759 1215 1241 b800
+    0x0000570: 4753 5912 1812 6a12 15b8 0020 5359 1221
+    0x0000580: 1241 b800 4753 5359 1218 1212 bd00 1759
+    0x0000590: 1215 1249 b800 4753 5912 1812 6cb8 0047
+    0x00005a0: 5359 1221 1249 b800 4753 5359 1221 1212
+    0x00005b0: bd00 1759 1215 0153 5912 1812 41b8 0047
+    0x00005c0: 5359 1221 0153 5301 01b9 0029 0600 b200
+    0x00005d0: 0f12 6e12 7012 15b8 0020 1221 b900 5402
+    0x00005e0: 0012 12bd 0014 5912 1512 12bd 0017 5912
+    0x00005f0: 1512 41b8 0047 5359 1218 1272 b800 4753
+    0x0000600: 5912 2112 41b8 0047 5353 5912 1812 12bd
+    0x0000610: 0017 5912 1512 72b8 0047 5359 1218 1249
+    0x0000620: b800 4753 5912 2112 72b8 0047 5353 5912
+    0x0000630: 2112 12bd 0017 5912 1512 41b8 0047 5359
+    0x0000640: 1218 1272 b800 4753 5912 2112 41b8 0047
+    0x0000650: 5353 0101 b900 2906 00b2 000f 1274 0112
+    0x0000660: 12bd 0014 5912 1512 12bd 0017 5912 1512
+    0x0000670: 7612 15b8 0020 5359 1218 1223 1215 b800
+    0x0000680: 2053 5912 2112 7612 15b8 0020 5353 5912
+    0x0000690: 1812 12bd 0017 5912 1512 2312 15b8 0020
+    0x00006a0: 5359 1218 1278 1215 b800 2053 5912 2112
+    0x00006b0: 2312 15b8 0020 5353 5912 2112 12bd 0017
+    0x00006c0: 5912 1512 7612 15b8 0020 5359 1218 1223
+    0x00006d0: 1215 b800 2053 5912 2112 7612 15b8 0020
+    0x00006e0: 5353 0101 b900 2906 00b2 000f 127a 0112
+    0x00006f0: 2159 c700 0857 01a7 0006 b800 80b8 0086
+    0x0000700: 59c7 0008 5701 a700 06b8 0080 b900 8c02
+    0x0000710: 0012 50b9 0090 0200 1212 bd00 1459 1215
+    0x0000720: 1212 bd00 1759 1215 1241 b800 4753 5912
+    0x0000730: 1812 49b8 0047 5359 1221 0153 5359 1218
+    0x0000740: 1212 bd00 1759 1215 1249 b800 4753 5912
+    0x0000750: 1812 49b8 0047 5359 1221 1241 b800 4753
+    0x0000760: 5359 1221 1212 bd00 1759 1215 0153 5912
+    0x0000770: 1812 41b8 0047 5359 1221 1241 b800 4753
+    0x0000780: 5301 01b9 0029 0600 b200 0f12 9201 1212
+    0x0000790: bd00 1459 1215 1212 bd00 1759 1215 0153
+    0x00007a0: 5912 1801 5359 1221 0153 5359 1218 1212
+    0x00007b0: bd00 1759 1215 0153 5912 1812 9412 15b8
+    0x00007c0: 0020 5359 1221 0153 5359 1221 1212 bd00
+    0x00007d0: 1759 1215 0153 5912 1801 5359 1221 0153
+    0x00007e0: 5301 01b9 0029 0600 b200 0f12 9601 1212
+    0x00007f0: bd00 1459 1215 1212 bd00 1759 1215 0153
+    0x0000800: 5912 1801 5359 1221 0153 5359 1218 1212
+    0x0000810: bd00 1759 1215 0153 5912 1801 5359 1221
+    0x0000820: 0153 5359 1221 1212 bd00 1759 1215 0153
+    0x0000830: 5912 1801 5359 1221 0153 5301 01b9 0029
+    0x0000840: 0600 b200 0f12 9812 9a12 15b8 0020 1212
+    0x0000850: bd00 1459 1215 1212 bd00 1759 1215 129c
+    0x0000860: 1215 b800 2053 5912 1812 9c12 15b8 0020
+    0x0000870: 5359 1221 129c 1215 b800 2053 5359 1218
+    0x0000880: 1212 bd00 1759 1215 129c 1215 b800 2053
+    0x0000890: 5912 1812 9c12 15b8 0020 5359 1221 129c
+    0x00008a0: 1215 b800 2053 5359 1221 1212 bd00 1759
+    0x00008b0: 1215 129c 1215 b800 2053 5912 1812 9c12
+    0x00008c0: 15b8 0020 5359 1221 129c 1215 b800 2053
+    0x00008d0: 5301 01b9 0029 0600 b1                 
+  Stackmap Table:
+    full_frame(@1786,{},{Object[#37],Object[#158],Null,Integer})
+    full_frame(@1789,{},{Object[#37],Object[#158],Null,Object[#136]})
+    full_frame(@1801,{},{Object[#37],Object[#158],Null,Object[#160]})
+    full_frame(@1804,{},{Object[#37],Object[#158],Null,Object[#136]})
+
+java.lang.VerifyError: Bad type on operand stack
+Exception Details:
+  Location:
+    Tweakergui_auto_gen.__script__()V @1778: ifnonnull
+  Reason:
+    Type integer (current frame, stack[4]) is not assignable to reference type
+  Current Frame:
+    bci: @1778
+    flags: { }
+    locals: { }
+    stack: { 'crafttweaker/api/recipes/IRecipeManager', 'java/lang/String', null, integer, integer }
+  Bytecode:
+    0x0000000: b200 0f12 1101 1212 bd00 1459 1215 1212
+    0x0000010: bd00 1759 1215 0153 5912 1812 1a12 15b8
+    0x0000020: 0020 5359 1221 0153 5359 1218 1212 bd00
+    0x0000030: 1759 1215 0153 5912 1801 5359 1221 0153
+    0x0000040: 5359 1221 1212 bd00 1759 1215 0153 5912
+    0x0000050: 1812 2312 15b8 0020 5359 1221 0153 5301
+    0x0000060: 01b9 0029 0600 b200 0f12 2b01 1212 bd00
+    0x0000070: 1459 1215 1212 bd00 1759 1215 0153 5912
+    0x0000080: 1801 5359 1221 0153 5359 1218 1212 bd00
+    0x0000090: 1759 1215 0153 5912 1801 5359 1221 0153
+    0x00000a0: 5359 1221 1212 bd00 1759 1215 0153 5912
+    0x00000b0: 1801 5359 1221 0153 5301 01b9 0029 0600
+    0x00000c0: b200 0f12 2d01 1212 bd00 1459 1215 1212
+    0x00000d0: bd00 1759 1215 0153 5912 1801 5359 1221
+    0x00000e0: 0153 5359 1218 1212 bd00 1759 1215 0153
+    0x00000f0: 5912 1801 5359 1221 0153 5359 1221 1212
+    0x0000100: bd00 1759 1215 0153 5912 1801 5359 1221
+    0x0000110: 0153 5301 01b9 0029 0600 b200 0f12 2f01
+    0x0000120: 1212 bd00 1459 1215 1212 bd00 1759 1215
+    0x0000130: 0153 5912 1812 3112 15b8 0020 5359 1221
+    0x0000140: 0153 5359 1218 1212 bd00 1759 1215 1231
+    0x0000150: 1215 b800 2053 5912 1801 5359 1221 1231
+    0x0000160: 1215 b800 2053 5359 1221 1212 bd00 1759
+    0x0000170: 1215 0153 5912 1812 3112 15b8 0020 5359
+    0x0000180: 1221 0153 5301 01b9 0029 0600 b200 0f12
+    0x0000190: 3301 1212 bd00 1459 1215 1212 bd00 1759
+    0x00001a0: 1215 1223 1215 b800 2053 5912 1801 5359
+    0x00001b0: 1221 1223 1215 b800 2053 5359 1218 1212
+    0x00001c0: bd00 1759 1215 0153 5912 1801 5359 1221
+    0x00001d0: 0153 5359 1221 1212 bd00 1759 1215 1223
+    0x00001e0: 1215 b800 2053 5912 1801 5359 1221 1223
+    0x00001f0: 1215 b800 2053 5301 01b9 0029 0600 b200
+    0x0000200: 0f12 3501 1212 bd00 1459 1215 1212 bd00
+    0x0000210: 1759 1215 0153 5912 1801 5359 1221 0153
+    0x0000220: 5359 1218 1212 bd00 1759 1215 121a 1215
+    0x0000230: b800 2053 5912 1801 5359 1221 121a 1215
+    0x0000240: b800 2053 5359 1221 1212 bd00 1759 1215
+    0x0000250: 0153 5912 1801 5359 1221 0153 5301 01b9
+    0x0000260: 0029 0600 b200 0f12 3701 1212 bd00 1459
+    0x0000270: 1215 1212 bd00 1759 1215 0153 5912 1801
+    0x0000280: 5359 1221 0153 5359 1218 1212 bd00 1759
+    0x0000290: 1215 0153 5912 1801 5359 1221 0153 5359
+    0x00002a0: 1221 1212 bd00 1759 1215 0153 5912 1812
+    0x00002b0: 3912 15b8 0020 5359 1221 0153 5301 01b9
+    0x00002c0: 0029 0600 b200 0f12 3b01 1212 bd00 1459
+    0x00002d0: 1215 1212 bd00 1759 1215 0153 5912 1801
+    0x00002e0: 5359 1221 0153 5359 1218 1212 bd00 1759
+    0x00002f0: 1215 0153 5912 1801 5359 1221 0153 5359
+    0x0000300: 1221 1212 bd00 1759 1215 0153 5912 1812
+    0x0000310: 3912 15b8 0020 5359 1221 0153 5301 01b9
+    0x0000320: 0029 0600 b200 0f12 3d12 3f12 15b8 0020
+    0x0000330: 1212 bd00 1459 1215 1212 bd00 1759 1215
+    0x0000340: 1241 b800 4753 5912 1812 41b8 0047 5359
+    0x0000350: 1221 1241 b800 4753 5359 1218 1212 bd00
+    0x0000360: 1759 1215 1241 b800 4753 5912 1812 49b8
+    0x0000370: 0047 5359 1221 1241 b800 4753 5359 1221
+    0x0000380: 1212 bd00 1759 1215 1249 b800 4753 5912
+    0x0000390: 1812 49b8 0047 5359 1221 1249 b800 4753
+    0x00003a0: 5301 01b9 0029 0600 b200 0f12 4b12 4d12
+    0x00003b0: 15b8 0020 124e b900 5402 0012 12bd 0014
+    0x00003c0: 5912 1512 12bd 0017 5912 1512 5612 15b8
+    0x00003d0: 0020 5359 1218 1258 1215 b800 2053 5912
+    0x00003e0: 2112 5812 15b8 0020 5353 5912 1812 12bd
+    0x00003f0: 0017 5912 1512 5612 15b8 0020 5359 1218
+    0x0000400: 125a 1215 b800 2053 5912 2112 5a12 15b8
+    0x0000410: 0020 5353 5912 2112 12bd 0017 5912 1512
+    0x0000420: 5612 15b8 0020 5359 1218 1258 1215 b800
+    0x0000430: 2053 5912 2112 5812 15b8 0020 5353 0101
+    0x0000440: b900 2906 00b2 000f 125c 124d 1215 b800
+    0x0000450: 2012 4eb9 0054 0200 1212 bd00 1459 1215
+    0x0000460: 1212 bd00 1759 1215 1256 1215 b800 2053
+    0x0000470: 5912 1812 49b8 0047 5359 1221 1249 b800
+    0x0000480: 4753 5359 1218 1212 bd00 1759 1215 1256
+    0x0000490: 1215 b800 2053 5912 1812 5a12 15b8 0020
+    0x00004a0: 5359 1221 125a 1215 b800 2053 5359 1221
+    0x00004b0: 1212 bd00 1759 1215 1256 1215 b800 2053
+    0x00004c0: 5912 1812 49b8 0047 5359 1221 1249 b800
+    0x00004d0: 4753 5301 01b9 0029 0600 b200 0f12 5e12
+    0x00004e0: 6012 15b8 0020 1212 bd00 1459 1215 1212
+    0x00004f0: bd00 1759 1215 0153 5912 1812 49b8 0047
+    0x0000500: 5359 1221 1262 1215 b800 2053 5359 1218
+    0x0000510: 1212 bd00 1759 1215 0153 5912 1812 6412
+    0x0000520: 15b8 0020 5359 1221 0153 5359 1221 1212
+    0x0000530: bd00 1759 1215 0153 5912 1812 6412 15b8
+    0x0000540: 0020 5359 1221 0153 5301 01b9 0029 0600
+    0x0000550: b200 0f12 6612 6812 15b8 0020 1212 bd00
+    0x0000560: 1459 1215 1212 bd00 1759 1215 1241 b800
+    0x0000570: 4753 5912 1812 6a12 15b8 0020 5359 1221
+    0x0000580: 1241 b800 4753 5359 1218 1212 bd00 1759
+    0x0000590: 1215 1249 b800 4753 5912 1812 6cb8 0047
+    0x00005a0: 5359 1221 1249 b800 4753 5359 1221 1212
+    0x00005b0: bd00 1759 1215 0153 5912 1812 41b8 0047
+    0x00005c0: 5359 1221 0153 5301 01b9 0029 0600 b200
+    0x00005d0: 0f12 6e12 7012 15b8 0020 1221 b900 5402
+    0x00005e0: 0012 12bd 0014 5912 1512 12bd 0017 5912
+    0x00005f0: 1512 41b8 0047 5359 1218 1272 b800 4753
+    0x0000600: 5912 2112 41b8 0047 5353 5912 1812 12bd
+    0x0000610: 0017 5912 1512 72b8 0047 5359 1218 1249
+    0x0000620: b800 4753 5912 2112 72b8 0047 5353 5912
+    0x0000630: 2112 12bd 0017 5912 1512 41b8 0047 5359
+    0x0000640: 1218 1272 b800 4753 5912 2112 41b8 0047
+    0x0000650: 5353 0101 b900 2906 00b2 000f 1274 0112
+    0x0000660: 12bd 0014 5912 1512 12bd 0017 5912 1512
+    0x0000670: 7612 15b8 0020 5359 1218 1223 1215 b800
+    0x0000680: 2053 5912 2112 7612 15b8 0020 5353 5912
+    0x0000690: 1812 12bd 0017 5912 1512 2312 15b8 0020
+    0x00006a0: 5359 1218 1278 1215 b800 2053 5912 2112
+    0x00006b0: 2312 15b8 0020 5353 5912 2112 12bd 0017
+    0x00006c0: 5912 1512 7612 15b8 0020 5359 1218 1223
+    0x00006d0: 1215 b800 2053 5912 2112 7612 15b8 0020
+    0x00006e0: 5353 0101 b900 2906 00b2 000f 127a 0112
+    0x00006f0: 2159 c700 0857 01a7 0006 b800 80b8 0086
+    0x0000700: 59c7 0008 5701 a700 06b8 0080 b900 8c02
+    0x0000710: 0012 50b9 0090 0200 1212 bd00 1459 1215
+    0x0000720: 1212 bd00 1759 1215 1241 b800 4753 5912
+    0x0000730: 1812 49b8 0047 5359 1221 0153 5359 1218
+    0x0000740: 1212 bd00 1759 1215 1249 b800 4753 5912
+    0x0000750: 1812 49b8 0047 5359 1221 1241 b800 4753
+    0x0000760: 5359 1221 1212 bd00 1759 1215 0153 5912
+    0x0000770: 1812 41b8 0047 5359 1221 1241 b800 4753
+    0x0000780: 5301 01b9 0029 0600 b200 0f12 9201 1212
+    0x0000790: bd00 1459 1215 1212 bd00 1759 1215 0153
+    0x00007a0: 5912 1801 5359 1221 0153 5359 1218 1212
+    0x00007b0: bd00 1759 1215 0153 5912 1812 9412 15b8
+    0x00007c0: 0020 5359 1221 0153 5359 1221 1212 bd00
+    0x00007d0: 1759 1215 0153 5912 1801 5359 1221 0153
+    0x00007e0: 5301 01b9 0029 0600 b200 0f12 9601 1212
+    0x00007f0: bd00 1459 1215 1212 bd00 1759 1215 0153
+    0x0000800: 5912 1801 5359 1221 0153 5359 1218 1212
+    0x0000810: bd00 1759 1215 0153 5912 1801 5359 1221
+    0x0000820: 0153 5359 1221 1212 bd00 1759 1215 0153
+    0x0000830: 5912 1801 5359 1221 0153 5301 01b9 0029
+    0x0000840: 0600 b200 0f12 9812 9a12 15b8 0020 1212
+    0x0000850: bd00 1459 1215 1212 bd00 1759 1215 129c
+    0x0000860: 1215 b800 2053 5912 1812 9c12 15b8 0020
+    0x0000870: 5359 1221 129c 1215 b800 2053 5359 1218
+    0x0000880: 1212 bd00 1759 1215 129c 1215 b800 2053
+    0x0000890: 5912 1812 9c12 15b8 0020 5359 1221 129c
+    0x00008a0: 1215 b800 2053 5359 1221 1212 bd00 1759
+    0x00008b0: 1215 129c 1215 b800 2053 5912 1812 9c12
+    0x00008c0: 15b8 0020 5359 1221 129c 1215 b800 2053
+    0x00008d0: 5301 01b9 0029 0600 b1                 
+  Stackmap Table:
+    full_frame(@1786,{},{Object[#37],Object[#158],Null,Integer})
+    full_frame(@1789,{},{Object[#37],Object[#158],Null,Object[#136]})
+    full_frame(@1801,{},{Object[#37],Object[#158],Null,Object[#160]})
+    full_frame(@1804,{},{Object[#37],Object[#158],Null,Object[#136]})
+
+	at __ZenMain__.run(Tweakergui_auto_gen)
+	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:240)
+	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:105)
+	at crafttweaker.mc1120.events.CommonEventHandler.registerRecipes(CommonEventHandler.java:71)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_99_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857)
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:636)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747)
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 231ms
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipes for various outputs
+[AVAILABLE][CLIENT][INFO] Fixed the RecipeBook

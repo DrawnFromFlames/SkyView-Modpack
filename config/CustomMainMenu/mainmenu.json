@@ -1,0 +1,172 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "modpack:menu.png",
+            "posX" : -185,
+            "posY" : 5,
+            "width" : 222,
+            "height" : 222,
+            "alignment" : "top_center"
+        },
+        
+        "edition":
+        {
+            "image" : "modpack:beta.png",
+            "posX" : 19,
+            "posY" : 195,
+            "width" : 85,
+            "height" : 36,
+            "alignment" : "top_center"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "SoloFlyer",
+            "posX" : 10,
+            "posY" : -15,
+            "width" : 150,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "AirFleet",
+            "posX" : 10,
+            "posY" : 10,
+            "width" : 150,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "Navigator (mods)",
+            "posX" : 10,
+            "posY" : 35,
+            "width" : 150,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "Control Room",
+            "posX" : 10,
+            "posY" : 60,
+            "width" : 150,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "Landing",
+            "posX" : 10,
+            "posY" : 85,
+            "width" : 150,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "language":
+        {
+            "text" : "",
+            "posX" : 115,
+            "posY" : 110,
+            "width" : 20,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+        
+        "refresh":
+        {
+            "text" : "",
+            "posX" : 140,
+            "posY" : 110,
+            "width" : 20,
+            "height" : 20,
+            "texture" : "custommainmenu:textures/gui/buttons.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        }
+    },
+    
+    "labels":
+    {
+        "mojang":
+        {
+            "text" : "beta",
+            "hoverText" : "beta",
+            "posX" : -197,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "credits"
+            }
+        },
+        
+        "fml":
+        {
+            "text" : "",
+            "posX" : 0,
+            "posY" : -26,
+            "color" : 3279510,
+            "alignment" : "top_left"
+        }
+    },
+    
+    "other":
+    {
+        "splash-text":
+        {
+            "posX" : 90,
+            "posY" : 2100,
+            "color" : -256,
+            "alignment" : "bottem_left",
+            "texts" : "file:minecraft:texts/splashes.txt"
+        },
+        
+        "panorama":
+        {
+            "images" : "modpack:back.png",
+            "animate" : true,
+            "animationSpeed" : 1,
+            "blur" : false,
+            "gradient" : false
+        }
+    }
+}
