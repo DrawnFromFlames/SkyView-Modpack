@@ -100,7 +100,27 @@ key_Zepplin Airship Turn Left:75
 key_Zepplin Airship Turn Right:77
 key_Zepplin Airship Down:74
 key_Zepplin Airship Stop:76
-key_key.betterquesting.quests:41
+key_Reload Menu | CTRL + ALT + :19
+key_Toggle Customization Overlay | CTRL + ALT + :46
+key_keybind.baublesinventory:48
+key_key.death_history:22
+key_Scene1 start/pause:79
+key_Scene2 start/pause:80
+key_Scene3 start/pause:81
+key_Scene reset:82
+key_Quest Log:38
+key_Toggle Magnetism Suppressor:49
+key_key.ftbquests.quests:0
+key_neat.keybind.toggle:0
+key_key.xat.trinket_gui.desc:25
+key_key.xat.trinket_target.desc:25
+key_key.xat.trinket_toggle_effect.desc:43
+key_key.xat.magnet_toggle_effect.desc:43
+key_key.xat.trinket_arcing_attack.desc:19
+key_key.xat.aux_key.desc:29
+key_key.xat.race_ability.desc:19
+key_walljump.key.walljump:42
+key_key.backpack:48
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0
@@ -112,6 +132,10 @@ key_key.jei.previousPage:201
 key_key.jei.nextPage:209
 key_key.jei.bookmark:30
 key_key.jei.toggleBookmarkOverlay:0
+key_key.carry.desc:42
+key_Start composing:34
+key_key.plonk.place.desc:25
+key_WorldEdit Reference:38
 soundCategory_master:0.07284768
 soundCategory_music:0.0
 soundCategory_record:0.45070422

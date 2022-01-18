@@ -1,0 +1,129 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = boat
+  action = animatebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = top-right
+  x = -180
+  action = movebutton
+  y = 47
+}
+
+customization {
+  identifier = %id=400322%
+  width = 169
+  action = resizebutton
+  height = 22
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = top-right
+  x = -109
+  action = movebutton
+  y = 75
+}
+
+customization {
+  identifier = %id=400382%
+  width = 97
+  action = resizebutton
+  height = 22
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = top-right
+  x = -109
+  action = movebutton
+  y = 103
+}
+
+customization {
+  identifier = %id=502382%
+  width = 98
+  action = resizebutton
+  height = 22
+}
+
+customization {
+  identifier = %id=376382%
+  orientation = bottom-right
+  x = -25
+  action = movebutton
+  y = -25
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = top-right
+  x = -180
+  action = movebutton
+  y = 19
+}
+
+customization {
+  identifier = %id=400298%
+  width = 169
+  action = resizebutton
+  height = 22
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = bottom-right
+  x = -151
+  action = movebutton
+  y = -25
+}
+
+customization {
+  identifier = %id=400346%
+  width = 66
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=502346%
+  orientation = bottom-right
+  x = -80
+  action = movebutton
+  y = -25
+}
+
+customization {
+  identifier = %id=502346%
+  width = 50
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  path = resources/modpack/skyview.png
+  orientation = top-left
+  x = 26
+  width = 211
+  actionid = 953e33ec-0ff9-40e9-a8d2-5c9f3feca06c1642484340738
+  action = addtexture
+  y = 14
+  height = 64
+}
+

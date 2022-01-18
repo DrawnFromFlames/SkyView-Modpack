@@ -23,21 +23,21 @@ B:showcustomizationbuttons = 'true';
 
 ##[mainmenu]
 
-S:copyrightposition = 'bottom-right';
+S:copyrightposition = 'bottom-left';
 B:hidebranding = 'true';
-S:copyrightcolor = '#ffffff';
-B:hidelogo = 'false';
+S:copyrightcolor = '#999ee1';
+B:hidelogo = 'true';
 B:hiderealmsnotifications = 'false';
 B:hideforgenotifications = 'false';
 
 
 ##[mainmenu_splash]
 
-S:splashcolor = '#ffff00';
-I:splashrotation = '-20';
-I:splashy = '0';
-I:splashx = '0';
-B:hidesplashtext = 'false';
+S:splashcolor = '#a0c7ee';
+I:splashrotation = '0';
+I:splashy = '75';
+I:splashx = '130';
+B:hidesplashtext = 'true';
 S:splashtextfile = '';
 S:splashorientation = 'original';
 
@@ -45,9 +45,9 @@ S:splashorientation = 'original';
 ##[loading]
 
 B:allowgameintroskip = 'true';
-S:loadinganimationcolor = '#E22837';
+S:loadinganimationcolor = '#68a6e3';
 B:showanimationloadingstatus = 'true';
-S:gameintroanimation = '';
+S:gameintroanimation = 'boat';
 B:preloadanimations = 'true';
 S:customgameintroskiptext = '';
 
@@ -55,7 +55,7 @@ S:customgameintroskiptext = '';
 ##[minecraftwindow]
 
 [A minecraft restart is required after changing this value.]
-S:customwindowtitle = '';
+S:customwindowtitle = 'Minecraft : SkyView 1.12.2';
 [A minecraft restart is required after changing this value.]
 B:customwindowicon = 'false';
 

@@ -1,2 +1,8 @@
 type = customizablemenus
 
+lumien.custommainmenu.gui.GuiCustom {
+}
+
+net.minecraft.client.gui.GuiMainMenu {
+}
+

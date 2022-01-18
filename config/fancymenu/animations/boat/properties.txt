@@ -1,0 +1,8 @@
+name = my_animation
+loop = true
+fps = 18
+width = 920
+hight = 640
+x = 0
+y = 0
+replayintro = true

@@ -1,0 +1,118 @@
+type = menu
+
+customization-meta {
+  identifier = lumien.custommainmenu.gui.GuiCustom
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = boat
+  action = animatebackground
+}
+
+customization {
+  keepaspectratio = true
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = top-right
+  x = -175
+  action = movebutton
+  y = 70
+}
+
+customization {
+  identifier = %id=400322%
+  width = 150
+  action = resizebutton
+  height = 25
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = top-right
+  x = -175
+  action = movebutton
+  y = 100
+}
+
+customization {
+  identifier = %id=400382%
+  width = 150
+  action = resizebutton
+  height = 25
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = top-right
+  x = -175
+  action = movebutton
+  y = 160
+}
+
+customization {
+  identifier = %id=502382%
+  width = 150
+  action = resizebutton
+  height = 25
+}
+
+customization {
+  identifier = %id=376382%
+  orientation = top-right
+  x = -24
+  action = movebutton
+  y = 327
+}
+
+customization {
+  identifier = %id=376382%
+  width = 18
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=346382%
+  orientation = top-right
+  x = -47
+  action = movebutton
+  y = 327
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = top-right
+  x = -175
+  action = movebutton
+  y = 40
+}
+
+customization {
+  identifier = %id=400298%
+  width = 150
+  action = resizebutton
+  height = 25
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = top-right
+  x = -175
+  action = movebutton
+  y = 130
+}
+
+customization {
+  identifier = %id=400346%
+  width = 150
+  action = resizebutton
+  height = 25
+}
+
