@@ -1,9 +1,0 @@
-{
-  "inventory": {
-    "0:8": "byg:pumpkinbread,3",
-    "0:3": "grapplemod:longfallboots,1,0,{ench:[{lvl:3s,id:34s},{lvl:3s,id:37s},{lvl:2s,id:0s}]}",
-    "0:1": "iceandfire:frost_troll_leather_chestplate,1,0,{ench:[{lvl:3s,id:37s},{lvl:3s,id:34s},{lvl:2s,id:0s}]}",
-    "0:0": "iceandfire:frost_troll_leather_leggings,1,0,{ench:[{lvl:3s,id:37s},{lvl:3s,id:34s},{lvl:2s,id:0s}]}",
-    "0:2": "immersiveengineering:steel_armor_head,1,0,{ench:[{lvl:3s,id:37s},{lvl:3s,id:34s},{lvl:2s,id:0s}]}"
-  }
-}

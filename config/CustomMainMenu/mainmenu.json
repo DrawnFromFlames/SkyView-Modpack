@@ -3,21 +3,21 @@
     {
         "title":
         {
-            "image" : "modpack:menu.png",
-            "posX" : -185,
-            "posY" : 5,
-            "width" : 222,
-            "height" : 222,
+            "image" : "custommainmenu:textures/gui/minecraft.png",
+            "posX" : -137,
+            "posY" : 30,
+            "width" : 512,
+            "height" : 512,
             "alignment" : "top_center"
         },
         
         "edition":
         {
-            "image" : "modpack:beta.png",
-            "posX" : 19,
-            "posY" : 195,
-            "width" : 85,
-            "height" : 36,
+            "image" : "custommainmenu:textures/gui/edition.png",
+            "posX" : -49,
+            "posY" : 67,
+            "width" : 128,
+            "height" : 16,
             "alignment" : "top_center"
         }
     },
@@ -26,10 +26,10 @@
     {
         "singleplayer":
         {
-            "text" : "SoloFlyer",
-            "posX" : 10,
-            "posY" : -15,
-            "width" : 150,
+            "text" : "menu.singleplayer",
+            "posX" : -100,
+            "posY" : 48,
+            "width" : 200,
             "height" : 20,
             "action" : 
             {
@@ -40,10 +40,10 @@
         
         "multiplayer":
         {
-            "text" : "AirFleet",
-            "posX" : 10,
-            "posY" : 10,
-            "width" : 150,
+            "text" : "menu.multiplayer",
+            "posX" : -100,
+            "posY" : 72,
+            "width" : 200,
             "height" : 20,
             "action" : 
             {
@@ -54,10 +54,10 @@
         
         "mods":
         {
-            "text" : "Navigator (mods)",
-            "posX" : 10,
-            "posY" : 35,
-            "width" : 150,
+            "text" : "fml.menu.mods",
+            "posX" : -100,
+            "posY" : 96,
+            "width" : 200,
             "height" : 20,
             "action" : 
             {
@@ -68,10 +68,10 @@
             
         "options":
         {
-            "text" : "Control Room",
-            "posX" : 10,
-            "posY" : 60,
-            "width" : 150,
+            "text" : "menu.options",
+            "posX" : -100,
+            "posY" : 132,
+            "width" : 98,
             "height" : 20,
             "action" : 
             {
@@ -82,10 +82,10 @@
         
         "quit":
         {
-            "text" : "Landing",
-            "posX" : 10,
-            "posY" : 85,
-            "width" : 150,
+            "text" : "menu.quit",
+            "posX" : 2,
+            "posY" : 132,
+            "width" : 98,
             "height" : 20,
             "action" : 
             {
@@ -96,8 +96,8 @@
         "language":
         {
             "text" : "",
-            "posX" : 115,
-            "posY" : 110,
+            "posX" : -124,
+            "posY" : 132,
             "width" : 20,
             "height" : 20,
             "action" : 
@@ -110,8 +110,8 @@
         "refresh":
         {
             "text" : "",
-            "posX" : 140,
-            "posY" : 110,
+            "posX" : -154,
+            "posY" : 132,
             "width" : 20,
             "height" : 20,
             "texture" : "custommainmenu:textures/gui/buttons.png",
@@ -126,8 +126,8 @@
     {
         "mojang":
         {
-            "text" : "beta",
-            "hoverText" : "beta",
+            "text" : "Copyright Mojang AB. Do not distribute!",
+            "hoverText" : "§nCopyright Mojang AB. Do not distribute!",
             "posX" : -197,
             "posY" : -10,
             "color" : -1,
@@ -142,10 +142,10 @@
         "fml":
         {
             "text" : "",
-            "posX" : 0,
-            "posY" : -26,
-            "color" : 3279510,
-            "alignment" : "top_left"
+            "posX" : 2,
+            "posY" : -40,
+            "color" : -1,
+            "alignment" : "bottom_left"
         }
     },
     
@@ -154,19 +154,19 @@
         "splash-text":
         {
             "posX" : 90,
-            "posY" : 2100,
+            "posY" : 70,
             "color" : -256,
-            "alignment" : "bottem_left",
+            "alignment" : "top_center",
             "texts" : "file:minecraft:texts/splashes.txt"
         },
         
         "panorama":
         {
-            "images" : "modpack:back.png",
+            "images" : "minecraft:textures/gui/title/background/panorama_%c.png",
             "animate" : true,
             "animationSpeed" : 1,
-            "blur" : false,
-            "gradient" : false
+            "blur" : true,
+            "gradient" : true
         }
     }
 }
