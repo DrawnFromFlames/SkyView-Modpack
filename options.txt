@@ -136,6 +136,7 @@ key_key.carry.desc:42
 key_Start composing:34
 key_key.plonk.place.desc:25
 key_WorldEdit Reference:38
+key_key.portaitreposition:52
 soundCategory_master:0.07284768
 soundCategory_music:0.0
 soundCategory_record:0.45070422
