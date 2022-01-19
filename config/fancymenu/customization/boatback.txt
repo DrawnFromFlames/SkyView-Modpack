@@ -36,7 +36,7 @@ customization {
 customization {
   identifier = %id=400382%
   orientation = top-right
-  x = -109
+  x = -108
   action = movebutton
   y = 75
 }
@@ -89,7 +89,7 @@ customization {
 customization {
   identifier = %id=400346%
   orientation = bottom-right
-  x = -151
+  x = -95
   action = movebutton
   y = -25
 }
@@ -103,10 +103,15 @@ customization {
 
 customization {
   identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=502346%
   orientation = bottom-right
   x = -80
   action = movebutton
-  y = -25
+  y = -26
 }
 
 customization {
@@ -119,11 +124,11 @@ customization {
 customization {
   path = resources/modpack/skyview.png
   orientation = top-left
-  x = 26
-  width = 211
+  x = 27
+  width = 207
   actionid = 953e33ec-0ff9-40e9-a8d2-5c9f3feca06c1642484340738
   action = addtexture
   y = 14
-  height = 64
+  height = 49
 }
 

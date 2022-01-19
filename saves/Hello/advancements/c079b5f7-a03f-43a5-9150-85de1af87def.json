@@ -1,94 +1,69 @@
 {
-  "minecraft:recipes/redstone/wooden_button": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "has_planks": "2022-01-19 07:54:36 +1300"
+      "lava_bucket": "2022-01-19 20:21:55 +1300"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "minecraft:husbandry/root": {
     "criteria": {
-      "entered_water": "2022-01-19 08:00:45 +1300"
+      "consumed_item": "2022-01-19 11:15:17 +1300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_wooden_slab": {
+  "minecraft:story/iron_tools": {
     "criteria": {
-      "has_planks": "2022-01-19 07:54:36 +1300"
+      "iron_pickaxe": "2022-01-19 20:20:48 +1300"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fence": {
+  "exoticbirds:eb/craft_incubator": {
     "criteria": {
-      "has_planks": "2022-01-19 07:54:36 +1300"
+      "egg_incubator": "2022-01-19 20:29:43 +1300"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/golden_carrot": {
+  "minecraft:adventure/kill_a_mob": {
     "criteria": {
-      "has_gold_nugget": "2022-01-19 07:59:26 +1300"
+      "zombie": "2022-01-19 11:15:50 +1300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stonebrick": {
+  "minecraft:end/elytra": {
     "criteria": {
-      "has_stone": "2022-01-19 08:01:28 +1300"
+      "elytra": "2022-01-19 20:20:48 +1300"
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "forest": "2022-01-19 07:54:05 +1300",
-      "forest_hills": "2022-01-19 07:53:58 +1300",
-      "extreme_hills": "2022-01-19 07:54:12 +1300",
-      "river": "2022-01-19 07:54:10 +1300"
+      "zombie": "2022-01-19 11:15:50 +1300",
+      "spider": "2022-01-19 11:20:37 +1300",
+      "creeper": "2022-01-19 11:15:56 +1300"
     },
     "done": false
   },
-  "minecraft:recipes/decorations/crafting_table": {
+  "exoticbirds:eb/craft_book": {
     "criteria": {
-      "has_planks": "2022-01-19 07:54:36 +1300"
+      "bird_book": "2022-01-19 20:37:19 +1300"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/trapdoor": {
+  "minecraft:story/mine_diamond": {
     "criteria": {
-      "has_planks": "2022-01-19 07:54:36 +1300"
+      "diamond": "2022-01-19 20:25:26 +1300"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
+  "minecraft:story/upgrade_tools": {
     "criteria": {
-      "has_lots_of_items": "2022-01-19 07:59:16 +1300"
+      "stone_pickaxe": "2022-01-19 20:13:13 +1300"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
+  "minecraft:story/root": {
     "criteria": {
-      "entered_water": "2022-01-19 08:00:45 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_stairs": {
-    "criteria": {
-      "has_planks": "2022-01-19 07:54:36 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/fence_gate": {
-    "criteria": {
-      "has_planks": "2022-01-19 07:54:36 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "entered_water": "2022-01-19 08:00:45 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_button": {
-    "criteria": {
-      "has_stone": "2022-01-19 08:01:28 +1300"
+      "crafting_table": "2022-01-19 09:40:32 +1300"
     },
     "done": true
   },
@@ -98,58 +73,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/wooden_pressure_plate": {
+  "exoticbirds:eb/craft_identifier": {
     "criteria": {
-      "has_planks": "2022-01-19 07:54:36 +1300"
+      "egg_sorter": "2022-01-19 20:29:43 +1300"
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick": {
+  "minecraft:story/obtain_armor": {
     "criteria": {
-      "has_planks": "2022-01-19 07:54:36 +1300"
+      "iron_boots": "2022-01-19 20:21:48 +1300",
+      "iron_chestplate": "2022-01-19 20:21:48 +1300",
+      "iron_leggings": "2022-01-19 20:21:48 +1300",
+      "iron_helmet": "2022-01-19 20:21:48 +1300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_slab": {
+  "minecraft:story/smelt_iron": {
     "criteria": {
-      "has_stone": "2022-01-19 08:01:28 +1300"
+      "iron": "2022-01-19 20:19:57 +1300"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/wooden_door": {
+  "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "has_planks": "2022-01-19 07:54:36 +1300"
+      "blaze_rod": "2022-01-19 20:25:43 +1300"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
+  "minecraft:story/mine_stone": {
     "criteria": {
-      "has_stone": "2022-01-19 08:01:28 +1300"
+      "get_stone": "2022-01-19 14:49:59 +1300"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/boat": {
+  "jaff:story/iron_hook": {
     "criteria": {
-      "entered_water": "2022-01-19 08:00:45 +1300"
+      "iron_pickaxe": "2022-01-19 20:46:07 +1300"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/sign": {
+  "minecraft:end/dragon_breath": {
     "criteria": {
-      "has_planks": "2022-01-19 07:54:36 +1300"
+      "dragon_breath": "2022-01-19 19:45:28 +1300"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "entered_water": "2022-01-19 08:00:45 +1300"
+      "killed_something": "2022-01-19 11:10:09 +1300"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/spruce_boat": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "entered_water": "2022-01-19 08:00:45 +1300"
+      "obsidian": "2022-01-19 20:57:58 +1300"
     },
     "done": true
+  },
+  "jaff:husbandry/fish_tank": {
+    "criteria": {
+      "iron_pickaxe": "2022-01-19 20:41:40 +1300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2022-01-19 07:54:05 +1300",
+      "deep_ocean": "2022-01-19 14:22:18 +1300",
+      "beaches": "2022-01-19 14:17:08 +1300",
+      "extreme_hills_with_trees": "2022-01-19 11:21:17 +1300",
+      "forest_hills": "2022-01-19 07:53:58 +1300",
+      "plains": "2022-01-19 15:58:29 +1300",
+      "ocean": "2022-01-19 14:16:21 +1300",
+      "extreme_hills": "2022-01-19 07:54:12 +1300",
+      "river": "2022-01-19 07:54:10 +1300"
+    },
+    "done": false
   }
 }
