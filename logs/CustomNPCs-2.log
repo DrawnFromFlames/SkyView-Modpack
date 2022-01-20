@@ -1,6 +1,6 @@
-[14:44:56][FINE/CustomNPCs][noppes.npcs.controllers.ScriptController:87] Wed Jan 19 14:44:56 NZDT 2022
-[14:44:56][FINE/CustomNPCs][noppes.npcs.CustomNpcs:236] Script Engines Available:
-[14:45:21][FINE/CustomNPCs][noppes.npcs.controllers.LinkedNpcController:28] Loading Linked Npcs
-[14:45:21][FINE/CustomNPCs][noppes.npcs.controllers.LinkedNpcController:28] Done loading Linked Npcs
-[14:45:27][FINE/CustomNPCs][noppes.npcs.CustomNpcs:300] Loading Dialogs
-[14:45:27][FINE/CustomNPCs][noppes.npcs.CustomNpcs:300] Done loading Dialogs
+[13:57:24][FINE/CustomNPCs][noppes.npcs.controllers.ScriptController:87] Thu Jan 20 13:57:24 NZDT 2022
+[13:57:24][FINE/CustomNPCs][noppes.npcs.CustomNpcs:236] Script Engines Available:
+[14:22:46][FINE/CustomNPCs][noppes.npcs.controllers.LinkedNpcController:28] Loading Linked Npcs
+[14:22:46][FINE/CustomNPCs][noppes.npcs.controllers.LinkedNpcController:28] Done loading Linked Npcs
+[14:22:52][FINE/CustomNPCs][noppes.npcs.CustomNpcs:300] Loading Dialogs
+[14:22:52][FINE/CustomNPCs][noppes.npcs.CustomNpcs:300] Done loading Dialogs

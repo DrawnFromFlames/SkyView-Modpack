@@ -1,15 +1,27 @@
 [PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit]]
 [PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: artisanschef.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: artisansworkbench.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: gamestages.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: main.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 3ms
 [INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
 [INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
 [INITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [recipeevent | crafttweaker]]
 [INITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: artisanschef.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: artisansworkbench.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: gamestages.zs}
+[INITIALIZATION][CLIENT][INFO] Adding to item stage melon. Melon - minecraft:melon_block:0
+[INITIALIZATION][CLIENT][INFO] Adding a replacement for stage one. minecraft:potatoes[age=0], minecraft:potatoes[age=1], minecraft:potatoes[age=2], minecraft:potatoes[age=3], minecraft:potatoes[age=4], minecraft:potatoes[age=5], minecraft:potatoes[age=6], minecraft:potatoes[age=7] will become minecraft:tallgrass[type=fern]
+[INITIALIZATION][CLIENT][INFO] Adding a replacement for stage two. minecraft:wheat[age=0], minecraft:wheat[age=1], minecraft:wheat[age=2], minecraft:wheat[age=3], minecraft:wheat[age=4], minecraft:wheat[age=5], minecraft:wheat[age=6], minecraft:wheat[age=7] will become minecraft:carrots[age=3]
+[INITIALIZATION][CLIENT][INFO] Adding a replacement for stage three. minecraft:nether_wart[age=0], minecraft:nether_wart[age=1], minecraft:nether_wart[age=2], minecraft:nether_wart[age=3] will become minecraft:beetroots[age=0]
+[INITIALIZATION][CLIENT][INFO] Adding a replacement for stage four. minecraft:dirt[snowy=false,variant=dirt] will become minecraft:stone[variant=stone]
+[INITIALIZATION][CLIENT][INFO] Adding a replacement for stage one. minecraft:obsidian will become minecraft:cobblestone
+[INITIALIZATION][CLIENT][INFO] Adding a replacement for stage one. minecraft:torch[facing=up], minecraft:torch[facing=north], minecraft:torch[facing=south], minecraft:torch[facing=west], minecraft:torch[facing=east] will become minecraft:redstone_torch[facing=up]
+[INITIALIZATION][CLIENT][INFO] Adding a replacement for stage five. minecraft:furnace[facing=north], minecraft:furnace[facing=south], minecraft:furnace[facing=west], minecraft:furnace[facing=east] will become minecraft:stone[variant=stone]
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: main.zs}
-[INITIALIZATION][CLIENT][INFO] Completed script loading in: 268ms
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 396ms
 [POSTINITIALIZATION][CLIENT][INFO] Removing recipes for various outputs
 [POSTINITIALIZATION][CLIENT][INFO] Removing all crafting recipes
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Gold Ingot with name exsample
@@ -17,4 +29,36 @@
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Stick with name stick1
 [POSTINITIALIZATION][CLIENT][INFO] Removing all furnace recipes
 [POSTINITIALIZATION][CLIENT][INFO] 68 furnace recipes removed for
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "basic"
 [POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "basic"

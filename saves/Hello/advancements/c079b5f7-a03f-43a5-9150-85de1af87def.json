@@ -43,15 +43,15 @@
     },
     "done": false
   },
-  "exoticbirds:eb/craft_book": {
-    "criteria": {
-      "bird_book": "2022-01-19 20:37:19 +1300"
-    },
-    "done": true
-  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2022-01-19 20:25:26 +1300"
+    },
+    "done": true
+  },
+  "exoticbirds:eb/craft_book": {
+    "criteria": {
+      "bird_book": "2022-01-19 20:37:19 +1300"
     },
     "done": true
   },
@@ -73,18 +73,18 @@
     },
     "done": true
   },
-  "exoticbirds:eb/craft_identifier": {
-    "criteria": {
-      "egg_sorter": "2022-01-19 20:29:43 +1300"
-    },
-    "done": true
-  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2022-01-19 20:21:48 +1300",
       "iron_chestplate": "2022-01-19 20:21:48 +1300",
       "iron_leggings": "2022-01-19 20:21:48 +1300",
       "iron_helmet": "2022-01-19 20:21:48 +1300"
+    },
+    "done": true
+  },
+  "exoticbirds:eb/craft_identifier": {
+    "criteria": {
+      "egg_sorter": "2022-01-19 20:29:43 +1300"
     },
     "done": true
   },
@@ -106,15 +106,15 @@
     },
     "done": true
   },
-  "jaff:story/iron_hook": {
-    "criteria": {
-      "iron_pickaxe": "2022-01-19 20:46:07 +1300"
-    },
-    "done": true
-  },
   "minecraft:end/dragon_breath": {
     "criteria": {
       "dragon_breath": "2022-01-19 19:45:28 +1300"
+    },
+    "done": true
+  },
+  "jaff:story/iron_hook": {
+    "criteria": {
+      "iron_pickaxe": "2022-01-19 20:46:07 +1300"
     },
     "done": true
   },
