@@ -12,6 +12,7 @@ KEEP IN MIND THIS IS IN BETA and is not at all complete
 
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
 Things that still need chaining:
 
 - Some quests are impossible to complete
@@ -24,6 +25,7 @@ Things that still need chaining:
 - Dragon's temporarily disabled dew to crashes
 - Item Placeholders still exsist
 - Design Betterquesting interface
+- 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 Change Log
