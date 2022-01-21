@@ -11,7 +11,7 @@ If you ever need help understanding how to make a ship, refer to this link first
 KEEP IN MIND THIS IS IN BETA and is not at all complete
 
 
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 Things that still need chaining:
 
@@ -26,7 +26,7 @@ Things that still need chaining:
 - Item Placeholders still exsist
 - Design Betterquesting interface
 - 
-–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 Change Log
 
